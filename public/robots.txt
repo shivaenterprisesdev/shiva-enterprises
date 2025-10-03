@@ -1,0 +1,34 @@
+User-agent: *
+Allow: /
+
+# Main pages
+Allow: /
+Allow: /about
+Allow: /contact
+Allow: /categories
+Allow: /brands
+Allow: /get-quote
+Allow: /products/*
+
+# Assets
+Allow: /src/assets/
+Allow: /src/data/
+
+# Block development and admin paths
+Disallow: /admin/
+Disallow: /api/
+Disallow: /dev/
+Disallow: /_vite/
+Disallow: /node_modules/
+
+# Block query parameters that don't add value
+Disallow: /*?*utm_*
+Disallow: /*?*ref=*
+Disallow: /*?*fbclid=*
+Disallow: /*?*gclid=*
+
+# Sitemap location
+Sitemap: https://www.shivaenterprisesindia.com//sitemap.xml
+
+# Crawl-delay (optional, helps prevent server overload)
+Crawl-delay: 1

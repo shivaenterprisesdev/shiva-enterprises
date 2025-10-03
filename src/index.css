@@ -1,0 +1,93 @@
+@import "tailwindcss";
+
+html:focus-within {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family:
+    Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, "Helvetica Neue", Arial, "Noto Sans", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  color: #36454f;
+  background-color: #ffffff;
+  /* Smooth text rendering for mobile */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+a {
+  text-decoration: none;
+}
+
+/* Custom utilities for mobile responsiveness */
+.line-clamp-1 {
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 1;
+}
+
+.line-clamp-2 {
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+}
+
+.line-clamp-3 {
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 3;
+}
+
+/* Enhanced touch targets for mobile */
+.touch-manipulation {
+  touch-action: manipulation;
+}
+
+/* Custom scrollbar for mobile webkit browsers */
+::-webkit-scrollbar {
+  width: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #FB8B24;
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #E8791F;
+}
+
+/* Focus states for better accessibility */
+.focus-visible:focus {
+  outline: 2px solid #FB8B24;
+  outline-offset: 2px;
+}
+
+/* Mobile-specific improvements */
+@media (max-width: 640px) {
+  /* Improve tap targets on mobile */
+  button, 
+  [role="button"], 
+  input[type="submit"], 
+  input[type="button"], 
+  a {
+    min-height: 44px;
+    min-width: 44px;
+  }
+
+  /* Better text readability on mobile */
+  body {
+    font-size: 16px; /* Prevents zoom on iOS */
+  }
+  
+  /* Smooth scrolling areas */
+  .scroll-smooth {
+    -webkit-overflow-scrolling: touch;
+  }
+}
