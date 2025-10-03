@@ -1,6 +1,6 @@
 import products from '../data/products.json'
 
-const SITE_URL = 'https://www.shivaenterprisesindia.com/'
+const SITE_URL = 'https://www.shivaenterprisesindia.com'
 
 // Static pages with their priorities and change frequencies
 const staticPages = [
