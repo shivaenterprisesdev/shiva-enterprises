@@ -82,14 +82,14 @@ export default function ProductSlider() {
                     </p>
                   </div>
                   
-                  {/* Price */}
+                  {/* Price
                   {p.price && (
                     <div className="mb-3">
                       <span className="text-lg font-bold" style={{ color: "#FB8B24" }}>
                         {p.price}
                       </span>
                     </div>
-                  )}
+                  )} */}
                   
                   {/* Key Features */}
                   {p.features && (
