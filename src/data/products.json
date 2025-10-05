@@ -9,7 +9,7 @@
           "brandName": "Kubler",
           "modelName": "8.KIS40.1642.1024",
           "price": "₹5000 / Piece",
-          "imgUrl": "/src/assets/categories/incremental-encoder/products/1.webp",
+          "imgUrl": "/assets/categories/incremental-encoder/products/1.webp",
           "features": [
             "1024 PPR resolution",
             "Solid shaft, 8mm diameter",
@@ -21,7 +21,7 @@
           "brandName": "Kubler",
           "modelName": "Sendix 5000 / 5020",
           "price": "₹5000 / Piece",
-          "imgUrl": "/src/assets/categories/incremental-encoder/products/2.webp",
+          "imgUrl": "/assets/categories/incremental-encoder/products/2.webp",
           "features": [
             "Robust Safety Lock™ bearing construction",
             "IP67 protection, wide temperature range",
@@ -33,7 +33,7 @@
           "brandName": "Kubler",
           "modelName": "Sendix 5000 / 5020 (inch dimensions)",
           "price": "₹7000 / Piece",
-          "imgUrl": "/src/assets/categories/incremental-encoder/products/3.webp",
+          "imgUrl": "/assets/categories/incremental-encoder/products/3.webp",
           "features": [
             "Resolution 5…6000 pulses",
             "Shaft and flange in inch dimensions",
@@ -45,7 +45,7 @@
           "brandName": "Kubler",
           "modelName": "Sendix KIS50 / KIH50",
           "price": "₹7000 / Piece",
-          "imgUrl": "/src/assets/categories/incremental-encoder/products/4.webp",
+          "imgUrl": "/assets/categories/incremental-encoder/products/4.webp",
           "features": [
             "Resolution up to 5000 PPR",
             "Economical solution for automation",
@@ -77,21 +77,21 @@
         "brandName": "Kubler",
         "modelName": "8.5000.8351.1024",
         "price": "₹6000 / Piece",
-        "imgUrl": "/src/assets/categories/absoulte-encoder/products/1.webp",
+        "imgUrl": "/assets/categories/absoulte-encoder/products/1.webp",
         "features": ["Solid Shaft options ø8mm-12mm", "CANopen / PROFIBUS / PROFINET", "Durable in harsh conditions"]
         },
         {
         "brandName": "Kubler",
         "modelName": "Kubler Absolute PushPull / TTL / PROFINET",
         "price": "₹5500 / Piece",
-        "imgUrl": "/src/assets/categories/absoulte-encoder/products/2.webp",
+        "imgUrl": "/assets/categories/absoulte-encoder/products/2.webp",
         "features": ["High resolution up to 5000", "Long service life", "Widely used in packaging & steel industries"]
         },
         {
         "brandName": "Autonics",
         "modelName": "Autonics Absolute Encoder",
         "price": "₹20000 / Piece",
-        "imgUrl": "/src/assets/categories/absoulte-encoder/products/3.webp",
+        "imgUrl": "/assets/categories/absoulte-encoder/products/3.webp",
         "features": ["Unique code pattern per position", "No reference runs needed", "Up to IP67 protection"]
         }
         ]
@@ -112,28 +112,28 @@
             "brandName": "Kubler",
             "modelName": "RLI50",
             "price": "₹ 25000 / Piece",
-            "imgUrl": "/src/assets/categories/bearing-less-encoder/products/1.webp",
+            "imgUrl": "/assets/categories/bearing-less-encoder/products/1.webp",
             "features": "Bearingless encoder with zero pulse, suitable for shaft diameter up to 35 mm. Contactless and wear-free measuring system with IP68/IP69k protection. High shock and vibration resistance. Easy mounting with slotted holes. Compact installation depth of only 16 mm."
             },
             {
             "brandName": "Kubler",
             "modelName": "RLI500",
             "price": "₹ 24000 / Piece",
-            "imgUrl": "/src/assets/categories/bearing-less-encoder/products/2.webp",
+            "imgUrl": "/assets/categories/bearing-less-encoder/products/2.webp",
             "features": "RLI500 bearingless encoder with magnetic ring and sensor head. Designed for shafts up to 350 mm. Offers IP68/IP69k protection and long service life. High resistance to shock, vibration, humidity, and heat. LED function indication for easy commissioning."
             },
             {
             "brandName": "Kubler",
             "modelName": "RLI20",
             "price": "₹ 26000 / Piece",
-            "imgUrl": "/src/assets/categories/bearing-less-encoder/products/3.webp",
+            "imgUrl": "/assets/categories/bearing-less-encoder/products/3.webp",
             "features": "RLI20 bearingless encoder for shafts up to 30 mm diameter. Compact 16 mm depth, IP68/IP69k rated, and designed for adverse industrial conditions. Contactless measuring principle, long durability, and function indication with LED."
             },
             {
             "brandName": "Kubler",
             "modelName": "RLI200",
             "price": "₹ 24000 / Piece",
-            "imgUrl": "/src/assets/categories/bearing-less-encoder/products/4.webp",
+            "imgUrl": "/assets/categories/bearing-less-encoder/products/4.webp",
             "features": "RLI200 bearingless encoder with shaft compatibility up to 390 mm diameter. High protection levels IP68/IP69k, strong resistance against condensation, humidity, and heat. Long service life with contactless wear-free operation. Easy mounting and LED indication."
             }
             ]
@@ -163,7 +163,7 @@
                     "brandName": "Kubler",
                     "modelName": "IN81 2D Inclinometer",
                     "price": "₹20000 / Piece",
-                    "imgUrl": "/src/assets/categories/inclinometer/products/1.webp",
+                    "imgUrl": "/assets/categories/inclinometer/products/1.webp",
                     "features": [
                       "Measuring range ±85°",
                       "Accuracy ±0.2°",
@@ -180,7 +180,7 @@
                     "brandName": "Kubler",
                     "modelName": "IN81 1D Inclinometer",
                     "price": "₹19000 / Piece",
-                    "imgUrl": "/src/assets/categories/inclinometer/products/2.webp",
+                    "imgUrl": "/assets/categories/inclinometer/products/2.webp",
                     "features": [
                       "Measuring range 0–360°",
                       "Accuracy ±0.2°",
@@ -195,7 +195,7 @@
                     "brandName": "Kubler",
                     "modelName": "IN88 Digital Inclinometer",
                     "price": "₹20000 / Piece",
-                    "imgUrl": "/src/assets/categories/inclinometer/products/3.webp",
+                    "imgUrl": "/assets/categories/inclinometer/products/3.webp",
                     "features": [
                       "Measuring range ±85°",
                       "Accuracy ±0.2°",
@@ -208,7 +208,7 @@
                     "brandName": "Kubler",
                     "modelName": "IN88 CANopen 1D Inclinometer",
                     "price": "₹17997 / Piece",
-                    "imgUrl": "/src/assets/categories/inclinometer/products/4.webp",
+                    "imgUrl": "/assets/categories/inclinometer/products/4.webp",
                     "features": [
                       "Measuring range 0–360°",
                       "Accuracy ±0.2°",
@@ -222,7 +222,7 @@
                     "brandName": "Kubler",
                     "modelName": "IN88 Modbus 1D Inclinometer",
                     "price": "₹22000 / Piece",
-                    "imgUrl": "/src/assets/categories/inclinometer/products/5.webp",
+                    "imgUrl": "/assets/categories/inclinometer/products/5.webp",
                     "features": [
                       "Measuring range 0–360°",
                       "Accuracy ±0.2°",
@@ -236,7 +236,7 @@
                     "brandName": "Kubler",
                     "modelName": "IS60 2D Inclinometer",
                     "price": "₹22000 / Piece",
-                    "imgUrl": "/src/assets/categories/inclinometer/products/6.webp",
+                    "imgUrl": "/assets/categories/inclinometer/products/6.webp",
                     "features": [
                       "Measuring range ±85°",
                       "Accuracy ±0.2°",
@@ -251,7 +251,7 @@
                     "brandName": "Kubler",
                     "modelName": "IS40 2D Inclinometer",
                     "price": "₹19000 / Piece",
-                    "imgUrl": "/src/assets/categories/inclinometer/products/7.webp",
+                    "imgUrl": "/assets/categories/inclinometer/products/7.webp",
                     "features": [
                       "Measuring range ±85°",
                       "Accuracy ±0.2°",
@@ -266,7 +266,7 @@
                     "brandName": "Kubler",
                     "modelName": "Angle Indicator Inclinometer",
                     "price": "₹20000 / Piece",
-                    "imgUrl": "/src/assets/categories/inclinometer/products/8.webp",
+                    "imgUrl": "/assets/categories/inclinometer/products/8.webp",
                     "features": [
                       "Resolution 0.01°",
                       "Measuring range 0–360° / ±85°",
@@ -345,7 +345,7 @@
                     "brandName": "Kubler",
                     "modelName": "A40 Draw Wire Encoder",
                     "price": "₹39000 / Piece",
-                    "imgUrl": "/src/assets/categories/draw-wire-encoder/products/1.webp",
+                    "imgUrl": "/assets/categories/draw-wire-encoder/products/1.webp",
                     "features": [
                       "Max inlet wire diameter 3-6 mm",
                       "Voltage 5 to 24 V DC, 8 to 30 V",
@@ -360,7 +360,7 @@
                     "brandName": "Kubler",
                     "modelName": "A41 Draw Wire Encoder",
                     "price": "₹39500 / Piece",
-                    "imgUrl": "/src/assets/categories/draw-wire-encoder/products/2.webp",
+                    "imgUrl": "/assets/categories/draw-wire-encoder/products/2.webp",
                     "features": [
                       "Max inlet wire diameter 3-6 mm",
                       "Voltage 10 to 30 V DC, 15 to 30 V DC",
@@ -375,7 +375,7 @@
                     "brandName": "Kubler",
                     "modelName": "C105 Draw Wire Encoder",
                     "price": "₹40000 / Piece",
-                    "imgUrl": "/src/assets/categories/draw-wire-encoder/products/3.webp",
+                    "imgUrl": "/assets/categories/draw-wire-encoder/products/3.webp",
                     "features": [
                       "Max inlet wire diameter 3-6 mm",
                       "Voltage 10 to 30 V DC, 15 to 30 V DC",
@@ -390,7 +390,7 @@
                     "brandName": "Kubler",
                     "modelName": "B75 Draw Wire Encoder",
                     "price": "₹42000 / Piece",
-                    "imgUrl": "/src/assets/categories/draw-wire-encoder/products/4.webp",
+                    "imgUrl": "/assets/categories/draw-wire-encoder/products/4.webp",
                     "features": [
                       "Max inlet wire diameter 3-6 mm",
                       "Voltage 15 to 28 V DC",
@@ -406,7 +406,7 @@
                     "brandName": "Kubler",
                     "modelName": "C100 Draw Wire Encoder",
                     "price": "₹40000 / Piece",
-                    "imgUrl": "/src/assets/categories/draw-wire-encoder/products/5.webp",
+                    "imgUrl": "/assets/categories/draw-wire-encoder/products/5.webp",
                     "features": [
                       "Mechanical type encoder",
                       "Max inlet wire diameter 3-6 mm",
@@ -420,7 +420,7 @@
                     "brandName": "Kubler",
                     "modelName": "A50 Draw Wire Encoder",
                     "price": "₹40000 / Piece",
-                    "imgUrl": "/src/assets/categories/draw-wire-encoder/products/6.webp",
+                    "imgUrl": "/assets/categories/draw-wire-encoder/products/6.webp",
                     "features": [
                       "Max inlet wire diameter 3-6 mm",
                       "Voltage 12 to 30 V DC",
@@ -435,7 +435,7 @@
                     "brandName": "Kubler",
                     "modelName": "D125 Draw Wire Encoder",
                     "price": "₹39000 / Piece",
-                    "imgUrl": "/src/assets/categories/draw-wire-encoder/products/7.webp",
+                    "imgUrl": "/assets/categories/draw-wire-encoder/products/7.webp",
                     "features": [
                       "Max inlet wire diameter 3-6 mm",
                       "Voltage 5 V DC, 9 to 30 V DC, 12 to 30 V DC",
@@ -454,7 +454,7 @@
                     "brandName": "Kubler",
                     "modelName": "D120 Draw Wire Encoder",
                     "price": "₹40000 / Piece",
-                    "imgUrl": "/src/assets/categories/draw-wire-encoder/products/8.webp",
+                    "imgUrl": "/assets/categories/draw-wire-encoder/products/8.webp",
                     "features": [
                       "Max inlet wire diameter 3-6 mm",
                       "Voltage 12 to 30 V DC",
@@ -480,7 +480,7 @@
                     "brandName": "Kubler",
                     "modelName": "Shaft Copying System",
                     "price": "₹19000 / Piece",
-                    "imgUrl": "/src/assets/categories/shaft-cpoying-system/products/1.webp",
+                    "imgUrl": "/assets/categories/shaft-cpoying-system/products/1.webp",
                     "features": [
                       "Absolute positioning of the elevator car",
                       "Contactless measuring principle with no slipping",
@@ -493,7 +493,7 @@
                     "brandName": "Kubler",
                     "modelName": "PSU02 Shaft Copying System",
                     "price": "₹22000 / Piece",
-                    "imgUrl": "/src/assets/categories/shaft-cpoying-system/products/2.webp",
+                    "imgUrl": "/assets/categories/shaft-cpoying-system/products/2.webp",
                     "features": [
                       "Realization of elevator and safety functions (EN81-20/-21/-50 compliant)",
                       "Works with Ants LES02 sensor",
@@ -508,7 +508,7 @@
                     "brandName": "Kubler",
                     "modelName": "Ants LEB02 Shaft Copying System",
                     "price": "₹19000 / Piece",
-                    "imgUrl": "/src/assets/categories/shaft-cpoying-system/products/3.webp",
+                    "imgUrl": "/assets/categories/shaft-cpoying-system/products/3.webp",
                     "features": [
                       "Absolute positioning of elevator car",
                       "Measuring length up to 392 m",
@@ -523,7 +523,7 @@
                     "brandName": "Kubler",
                     "modelName": "Ants LES02 Shaft Copying System",
                     "price": "₹20000 / Piece",
-                    "imgUrl": "/src/assets/categories/shaft-cpoying-system/products/4.webp",
+                    "imgUrl": "/assets/categories/shaft-cpoying-system/products/4.webp",
                     "features": [
                       "Safe and absolute positioning of elevator car",
                       "Resolution: 0.5 mm, speed up to 12 m/s",
@@ -548,7 +548,7 @@
                     "brandName": "Kubler",
                     "modelName": "Slip Rings 30mm",
                     "price": "₹35000 / Piece",
-                    "imgUrl": "/src/assets/categories/slipring/products/1.webp",
+                    "imgUrl": "/assets/categories/slipring/products/1.webp",
                     "features": [
                       "Used in automatic horizontal flow packaging machines",
                       "Transmits power supply for heating rotating sealing roll",
@@ -562,7 +562,7 @@
                     "brandName": "Kubler",
                     "modelName": "Slip Ring 4 Channel",
                     "price": "₹32000 / Piece",
-                    "imgUrl": "/src/assets/categories/slipring/products/2.webp",
+                    "imgUrl": "/assets/categories/slipring/products/2.webp",
                     "features": [
                       "Single-phase slip ring for industrial use",
                       "Power: 230 V AC",
@@ -577,7 +577,7 @@
                     "brandName": "Kubler",
                     "modelName": "Modular Slip Ring",
                     "price": "₹45000 / Piece",
-                    "imgUrl": "/src/assets/categories/slipring/products/3.webp",
+                    "imgUrl": "/assets/categories/slipring/products/3.webp",
                     "features": [
                       "Modular design for maximum flexibility",
                       "Stable accuracy: -40°C to +85°C",
@@ -600,7 +600,7 @@
                     "brandName": "Kubler",
                     "modelName": "LCD Counter 48x24 DIN",
                     "price": "₹ On Request",
-                    "imgUrl": "/src/assets/categories/pulse-counter/products/1.jpg",
+                    "imgUrl": "/assets/categories/pulse-counter/products/1.jpg",
                     "features": [
                       "48x24 mm DIN housing",
                       "Adding, subtracting, or difference counting",
@@ -612,7 +612,7 @@
                     "brandName": "Kubler",
                     "modelName": "LED Counter 48x24 DIN",
                     "price": "₹ On Request",
-                    "imgUrl": "/src/assets/categories/pulse-counter/products/2.jpg",
+                    "imgUrl": "/assets/categories/pulse-counter/products/2.jpg",
                     "features": [
                       "48x24 mm DIN housing",
                       "Single, multifunctional, or dual-function counter",
@@ -623,7 +623,7 @@
                     "brandName": "Kubler",
                     "modelName": "LED Counter 96x48 DIN",
                     "price": "₹ On Request",
-                    "imgUrl": "/src/assets/categories/pulse-counter/products/3.jpg",
+                    "imgUrl": "/assets/categories/pulse-counter/products/3.jpg",
                     "features": [
                       "96x48 mm DIN housing",
                       "Single, multifunctional, or dual-function counter",
@@ -634,7 +634,7 @@
                     "brandName": "Kubler",
                     "modelName": "Multicolor LCD Counter 96x48",
                     "price": "₹ On Request",
-                    "imgUrl": "/src/assets/categories/pulse-counter/products/4.jpg",
+                    "imgUrl": "/assets/categories/pulse-counter/products/4.jpg",
                     "features": [
                       "96x48 mm DIN housing",
                       "Multifunctional for pulses, times, frequencies, and reciprocals",
@@ -645,7 +645,7 @@
                     "brandName": "Kubler",
                     "modelName": "LCD Counter Module",
                     "price": "₹ On Request",
-                    "imgUrl": "/src/assets/categories/pulse-counter/products/5.jpg",
+                    "imgUrl": "/assets/categories/pulse-counter/products/5.jpg",
                     "features": [
                       "6- and 7-digit counters",
                       "Circuit board mounting",
@@ -656,7 +656,7 @@
                     "brandName": "Kubler",
                     "modelName": "Micro Counter",
                     "price": "₹ On Request",
-                    "imgUrl": "/src/assets/categories/pulse-counter/products/6.jpg",
+                    "imgUrl": "/assets/categories/pulse-counter/products/6.jpg",
                     "features": [
                       "For front panel mounting, circuit boards, and surface mounting",
                       "Electromechanical pulse counter",
@@ -667,7 +667,7 @@
                     "brandName": "Kubler",
                     "modelName": "Miniature Counter",
                     "price": "₹ On Request",
-                    "imgUrl": "/src/assets/categories/pulse-counter/products/7.jpg",
+                    "imgUrl": "/assets/categories/pulse-counter/products/7.jpg",
                     "features": [
                       "For front panel mounting",
                       "Electromechanical pulse counter",
@@ -678,7 +678,7 @@
                     "brandName": "Kubler",
                     "modelName": "Micro Meter DIN Rail",
                     "price": "₹ On Request",
-                    "imgUrl": "/src/assets/categories/pulse-counter/products/8.jpg",
+                    "imgUrl": "/assets/categories/pulse-counter/products/8.jpg",
                     "features": [
                       "For 35 mm DIN rail mounting",
                       "Electromechanical counter",
@@ -689,7 +689,7 @@
                     "brandName": "Kubler",
                     "modelName": "Standard Counter",
                     "price": "₹ On Request",
-                    "imgUrl": "/src/assets/categories/pulse-counter/products/9.jpg",
+                    "imgUrl": "/assets/categories/pulse-counter/products/9.jpg",
                     "features": [
                       "Front panel mounting",
                       "Electromechanical pulse counter",
@@ -700,7 +700,7 @@
                     "brandName": "Kubler",
                     "modelName": "Double Function Counter",
                     "price": "₹ On Request",
-                    "imgUrl": "/src/assets/categories/pulse-counter/products/10.jpg",
+                    "imgUrl": "/assets/categories/pulse-counter/products/10.jpg",
                     "features": [
                       "Acquisition of pulses and times or kWh and times",
                       "Electromechanical counter",
@@ -711,7 +711,7 @@
                     "brandName": "Kubler",
                     "modelName": "Pneumatic Counter",
                     "price": "₹ On Request",
-                    "imgUrl": "/src/assets/categories/pulse-counter/products/11.jpg",
+                    "imgUrl": "/assets/categories/pulse-counter/products/11.jpg",
                     "features": [
                       "Front panel mounting",
                       "33x22 mm to 48x24 mm cut-out sizes",
@@ -743,7 +743,7 @@
                     "brandName": "Kubler",
                     "modelName": "LCD Hour Meter / Timer 48x24 DIN",
                     "price": "₹ On Request",
-                    "imgUrl": "/src/assets/categories/timer-hour-meter/products/1.png",
+                    "imgUrl": "/assets/categories/timer-hour-meter/products/1.png",
                     "features": [
                       "48x24 mm DIN housing",
                       "Different time ranges",
@@ -754,7 +754,7 @@
                     "brandName": "Kubler",
                     "modelName": "LED Hour Meter / Timer 48x24 DIN",
                     "price": "₹ On Request",
-                    "imgUrl": "/src/assets/categories/timer-hour-meter/products/2.png",
+                    "imgUrl": "/assets/categories/timer-hour-meter/products/2.png",
                     "features": [
                       "48x24 mm DIN housing",
                       "Single, multifunctional, or dual-function operation",
@@ -765,7 +765,7 @@
                     "brandName": "Kubler",
                     "modelName": "LED Hour Meter / Timer 96x48 DIN",
                     "price": "₹ On Request",
-                    "imgUrl": "/src/assets/categories/timer-hour-meter/products/3.png",
+                    "imgUrl": "/assets/categories/timer-hour-meter/products/3.png",
                     "features": [
                       "96x48 mm DIN housing",
                       "Single, multifunctional, or dual-function operation",
@@ -776,7 +776,7 @@
                     "brandName": "Kubler",
                     "modelName": "LCD Hour Meter / Timer 96x48 DIN",
                     "price": "₹ On Request",
-                    "imgUrl": "/src/assets/categories/timer-hour-meter/products/4.png",
+                    "imgUrl": "/assets/categories/timer-hour-meter/products/4.png",
                     "features": [
                       "96x48 mm DIN housing",
                       "Multifunctional for pulses, times, frequencies, and reciprocals",
@@ -787,7 +787,7 @@
                     "brandName": "Kubler",
                     "modelName": "LCD Hour Meter / Timer Module",
                     "price": "₹ On Request",
-                    "imgUrl": "/src/assets/categories/timer-hour-meter/products/5.png",
+                    "imgUrl": "/assets/categories/timer-hour-meter/products/5.png",
                     "features": [
                       "6-digit LCD hour meters / timers",
                       "Circuit board mounting",
@@ -798,7 +798,7 @@
                     "brandName": "Kubler",
                     "modelName": "Micro Hour Meter / Timer",
                     "price": "₹ On Request",
-                    "imgUrl": "/src/assets/categories/timer-hour-meter/products/6.png",
+                    "imgUrl": "/assets/categories/timer-hour-meter/products/6.png",
                     "features": [
                       "For front panel, circuit board, or surface mounting",
                       "Electromechanical design",
@@ -809,7 +809,7 @@
                     "brandName": "Kubler",
                     "modelName": "Front Panel Mounted Counter",
                     "price": "₹ On Request",
-                    "imgUrl": "/src/assets/categories/timer-hour-meter/products/7.png",
+                    "imgUrl": "/assets/categories/timer-hour-meter/products/7.png",
                     "features": [
                       "Front panel mounting",
                       "DIN dimensions: 33x22 mm to 45x45 mm cut-out",
@@ -820,7 +820,7 @@
                     "brandName": "Kubler",
                     "modelName": "DIN Rail Mounted Hour Meter / Timer",
                     "price": "₹ On Request",
-                    "imgUrl": "/src/assets/categories/timer-hour-meter/products/8.png",
+                    "imgUrl": "/assets/categories/timer-hour-meter/products/8.png",
                     "features": [
                       "For 35 mm DIN rail",
                       "Electromechanical hour meter / timer",
@@ -831,7 +831,7 @@
                     "brandName": "Kubler",
                     "modelName": "Standard Hour Meter (Round)",
                     "price": "₹ On Request",
-                    "imgUrl": "/src/assets/categories/timer-hour-meter/products/9.png",
+                    "imgUrl": "/assets/categories/timer-hour-meter/products/9.png",
                     "features": [
                       "Front panel mounting",
                       "50.8 mm round cut-out",
@@ -842,7 +842,7 @@
                     "brandName": "Kubler",
                     "modelName": "Front Panel Standard Hour Meter / Timer",
                     "price": "₹ On Request",
-                    "imgUrl": "/src/assets/categories/timer-hour-meter/products/10.png",
+                    "imgUrl": "/assets/categories/timer-hour-meter/products/10.png",
                     "features": [
                       "Front panel mounting",
                       "Cut-out sizes: 50x25 mm to 54x29 mm",
@@ -853,7 +853,7 @@
                     "brandName": "Kubler",
                     "modelName": "Dual Function Hour Meter / Timer",
                     "price": "₹ On Request",
-                    "imgUrl": "/src/assets/categories/timer-hour-meter/products/11.png",
+                    "imgUrl": "/assets/categories/timer-hour-meter/products/11.png",
                     "features": [
                       "Measures pulses and times or kWh and times",
                       "Electromechanical counter",
@@ -885,7 +885,7 @@
                     "brandName": "Kubler",
                     "modelName": "Radar Sensor Versatile",
                     "price": "₹ On Request",
-                    "imgUrl": "/src/assets/categories/radar-sensor/products/1.jpg",
+                    "imgUrl": "/assets/categories/radar-sensor/products/1.jpg",
                     "features": [
                       "Wide opening angle ±8° (16°) for maximum coverage",
                       "Measuring range up to 30 m",
@@ -898,7 +898,7 @@
                     "brandName": "Kubler",
                     "modelName": "Radar Sensor Focused",
                     "price": "₹ On Request",
-                    "imgUrl": "/src/assets/categories/radar-sensor/products/2.jpg",
+                    "imgUrl": "/assets/categories/radar-sensor/products/2.jpg",
                     "features": [
                       "Narrow aperture angle ±3° (6°) for precise detection",
                       "Extended measuring range up to 40 m",
@@ -923,7 +923,7 @@
                     "brandName": "Kubler",
                     "modelName": "Sendix S36 Motor Feedback System",
                     "price": "₹6000 / Piece",
-                    "imgUrl": "/src/assets/categories/survo-drive-dc/products/1.png",
+                    "imgUrl": "/assets/categories/survo-drive-dc/products/1.png",
                     "features": [
                       "Compact size 36.5 x 37 mm for servo motor integration",
                       "High-precision optical electronics with 19-bit single-turn resolution",
@@ -951,7 +951,7 @@
                     "brandName": "Kubler",
                     "modelName": "IO-Link Master Module 4-Port",
                     "price": "₹ On Request",
-                    "imgUrl": "/src/assets/categories/io-module/products/1.png",
+                    "imgUrl": "/assets/categories/io-module/products/1.png",
                     "features": [
                       "4-port IO-Link Master for compact automation setups",
                       "Supports bidirectional communication with IO-Link devices",
@@ -963,7 +963,7 @@
                     "brandName": "Kubler",
                     "modelName": "IO-Link Master Module 8-Port",
                     "price": "₹ On Request",
-                    "imgUrl": "/src/assets/categories/io-module/products/2.png",
+                    "imgUrl": "/assets/categories/io-module/products/2.png",
                     "features": [
                       "8-port IO-Link Master for advanced automation networks",
                       "High-speed and reliable data transmission",
@@ -975,7 +975,7 @@
                     "brandName": "Kubler",
                     "modelName": "IO-Link Master Module Profinet",
                     "price": "₹ On Request",
-                    "imgUrl": "/src/assets/categories/io-module/products/3.png",
+                    "imgUrl": "/assets/categories/io-module/products/3.png",
                     "features": [
                       "IO-Link Master with Profinet connectivity",
                       "Seamless integration into existing Profinet networks",
@@ -987,7 +987,7 @@
                     "brandName": "Kubler",
                     "modelName": "IO-Link Master Module Ethernet/IP",
                     "price": "₹ On Request",
-                    "imgUrl": "/src/assets/categories/io-module/products/4.png",
+                    "imgUrl": "/assets/categories/io-module/products/4.png",
                     "features": [
                       "Ethernet/IP compatible IO-Link Master",
                       "Supports condition monitoring and predictive maintenance",
@@ -1014,7 +1014,7 @@
                     "brandName": "Mean Well",
                     "modelName": "EDR-120-12",
                     "price": "₹2500 / Piece",
-                    "imgUrl": "/src/assets/categories/meanwell-power-supply/products/1.webp",
+                    "imgUrl": "/assets/categories/meanwell-power-supply/products/1.webp",
                     "features": [
                       "Din rail mounted SMPS",
                       "Output Voltage: 12V DC",
@@ -1029,7 +1029,7 @@
                     "brandName": "Mean Well",
                     "modelName": "LRS-100-15",
                     "price": "₹1500 / Piece",
-                    "imgUrl": "/src/assets/categories/meanwell-power-supply/products/2.webp",
+                    "imgUrl": "/assets/categories/meanwell-power-supply/products/2.webp",
                     "features": [
                       "Metal body compact design",
                       "Output Voltage: 15V DC",
@@ -1044,7 +1044,7 @@
                     "brandName": "Mean Well",
                     "modelName": "APV-12-24",
                     "price": "₹1000 / Piece",
-                    "imgUrl": "/src/assets/categories/meanwell-power-supply/products/3.webp",
+                    "imgUrl": "/assets/categories/meanwell-power-supply/products/3.webp",
                     "features": [
                       "LED power supply unit",
                       "Output Voltage: 24V DC",
@@ -1068,7 +1068,7 @@
                     "brandName": "Kubler",
                     "modelName": "Kubler Rotary Encoder",
                     "price": "₹6000 / Piece",
-                    "imgUrl": "/src/assets/categories/rotary-encoder/products/1.webp",
+                    "imgUrl": "/assets/categories/rotary-encoder/products/1.webp",
                     "features": [
                       "Usage/Application: Industrial",
                       "Pulse Per Revolution (PPR): 500, 1000, 1024, 2048, 2500, 3600, 4096, 5000",
@@ -1088,7 +1088,7 @@
                     "brandName": "Kubler",
                     "modelName": "Multi Turn Absolute Rotary Encoder",
                     "price": "₹22500 / Piece",
-                    "imgUrl": "/src/assets/categories/rotary-encoder/products/2.webp",
+                    "imgUrl": "/assets/categories/rotary-encoder/products/2.webp",
                     "features": [
                       "Brand: Kubler",
                       "Model Number: M.5861.3534.3412",
@@ -1118,7 +1118,7 @@
                     "brandName": "Autonics",
                     "modelName": "T3s Temperature Controller",
                     "price": "₹4000 / Piece",
-                    "imgUrl": "/src/assets/categories/temperature-controller/products/1.webp",
+                    "imgUrl": "/assets/categories/temperature-controller/products/1.webp",
                     "features": [
                       "Control Type: On-Off",
                       "Brand: Autonics",
@@ -1135,7 +1135,7 @@
                     "brandName": "Autonics",
                     "modelName": "Temperature Controller TCN4S24R",
                     "price": "₹5000 / Piece",
-                    "imgUrl": "/src/assets/categories/temperature-controller/products/2.webp",
+                    "imgUrl": "/assets/categories/temperature-controller/products/2.webp",
                     "features": [
                       "Control Type: PID/On-Off",
                       "Brand: Autonics",
@@ -1172,7 +1172,7 @@
         "brandName": "Shiva Enterprises",
         "modelName": "Connectors Male Female",
         "price": "₹ 1600 / Piece",
-        "imgUrl": "/src/assets/categories/connector/products/1.webp",
+        "imgUrl": "/assets/categories/connector/products/1.webp",
         "features": [
           "Pitch size 1.5 mm",
           "Connectivity Type Female",
@@ -1186,7 +1186,7 @@
         "brandName": "Weidmuller",
         "modelName": "HDC HE 10 MS Plug-in Connector",
         "price": "₹ 800 / Piece",
-        "imgUrl": "/src/assets/categories/connector/products/2.webp",
+        "imgUrl": "/assets/categories/connector/products/2.webp",
         "features": [
           "Plug and Socket connectors",
           "Industrial connectivity",
@@ -1197,7 +1197,7 @@
         "brandName": "Weidmuller",
         "modelName": "M12 4 Pin Male Profinet Connector",
         "price": "₹ 1500 / Piece",
-        "imgUrl": "/src/assets/categories/connector/products/3.webp",
+        "imgUrl": "/assets/categories/connector/products/3.webp",
         "features": [
           "Connectivity Type Female",
           "Application: Profinet",
@@ -1224,7 +1224,7 @@
         "brandName": "Weidmuller",
         "modelName": "PLC System Wiring & Migration System",
         "price": "₹ 6000 / Piece",
-        "imgUrl": "/src/assets/categories/plc-system/products/1.webp",
+        "imgUrl": "/assets/categories/plc-system/products/1.webp",
         "features": [
           "Designed for automation upgrades",
           "Reliable migration interfaces",
@@ -1235,7 +1235,7 @@
         "brandName": "Weidmuller",
         "modelName": "I/O Systems (4-Channel)",
         "price": "₹ 10500 / Piece",
-        "imgUrl": "/src/assets/categories/plc-system/products/2.webp",
+        "imgUrl": "/assets/categories/plc-system/products/2.webp",
         "features": [
           "4 channels",
           "DIN rail mounting",
@@ -1258,7 +1258,7 @@
         "brandName": "Spiral",
         "modelName": "Spiral Flexible Coupling",
         "price": "₹ 500 / Piece",
-        "imgUrl": "/src/assets/categories/flexible-coupling/products/1.webp",
+        "imgUrl": "/assets/categories/flexible-coupling/products/1.webp",
         "features": [
           "Material: Stainless Steel",
           "Powder coated finish",
@@ -1271,7 +1271,7 @@
         "brandName": "Generic",
         "modelName": "Double Loop Coupling",
         "price": "₹ 7000 / Piece",
-        "imgUrl": "/src/assets/categories/flexible-coupling/products/2.webp",
+        "imgUrl": "/assets/categories/flexible-coupling/products/2.webp",
         "features": [
           "Type: Spider Coupling",
           "Usage: Pneumatic connections",
@@ -1295,7 +1295,7 @@
         "brandName": "Autonics",
         "modelName": "Counter Meter RPM",
         "price": "₹5000 / Piece",
-        "imgUrl": "/src/assets/categories/digital-counter-meter/products/1.webp",
+        "imgUrl": "/assets/categories/digital-counter-meter/products/1.webp",
         "features": [
           "Model Name/Number: RPM Meter",
           "Usage/Application: Industrial",
@@ -1311,7 +1311,7 @@
         "brandName": "Kubler",
         "modelName": "Automatic Counters Codix 923/924",
         "price": "₹5000 / Piece",
-        "imgUrl": "/src/assets/categories/digital-counter-meter/products/2.webp",
+        "imgUrl": "/assets/categories/digital-counter-meter/products/2.webp",
         "features": [
           "Model Name/Number: Codix 923 / 924",
           "Display Type: Digital 6 numbers LED display",
@@ -1341,7 +1341,7 @@
         "brandName": "Autonics",
         "modelName": "Photoelectric Sensor BEN5M MFR",
         "price": "₹3000 / Piece",
-        "imgUrl": "/src/assets/categories/photoelectric-sensor/products/1.webp",
+        "imgUrl": "/assets/categories/photoelectric-sensor/products/1.webp",
         "features": [
           "Brand: Autonics",
           "Colour: Black",
@@ -1360,7 +1360,7 @@
         "brandName": "Datalogic",
         "modelName": "Datalogic TL50 W815",
         "price": "₹6500 / Piece",
-        "imgUrl": "/src/assets/categories/photoelectric-sensor/products/2.webp",
+        "imgUrl": "/assets/categories/photoelectric-sensor/products/2.webp",
         "features": [
           "Detection Distance: 15mm",
           "Model Number: W815",
@@ -1385,7 +1385,7 @@
         "brandName": "Autonics",
         "modelName": "Thyristor Power Controllers",
         "price": "₹15000 / Piece",
-        "imgUrl": "/src/assets/categories/thristor-power-controller/products/1.webp",
+        "imgUrl": "/assets/categories/thristor-power-controller/products/1.webp",
         "features": [
           "Usage/Application: Industrial",
           "Type: Automatic",
@@ -1416,7 +1416,7 @@
         "brandName": "Delta",
         "modelName": "DVP ES3 Series",
         "price": "₹On Request",
-        "imgUrl": "/src/assets/categories/programmable-logic-controller/products/1.jpeg",
+        "imgUrl": "/assets/categories/programmable-logic-controller/products/1.jpeg",
         "features": [
           "Third generation DVP PLCs",
           "AS series PLC's 32-bit high-speed processor",
@@ -1433,7 +1433,7 @@
         "brandName": "Delta",
         "modelName": "DVP EX3 Series",
         "price": "₹On Request",
-        "imgUrl": "/src/assets/categories/programmable-logic-controller/products/2.jpeg",
+        "imgUrl": "/assets/categories/programmable-logic-controller/products/2.jpeg",
         "features": [
           "Third generation DVP PLCs",
           "AS series PLC's 32-bit high-speed processor",
@@ -1449,7 +1449,7 @@
         "brandName": "Delta",
         "modelName": "DVP ES2 Series",
         "price": "₹On Request",
-        "imgUrl": "/src/assets/categories/programmable-logic-controller/products/3.jpeg",
+        "imgUrl": "/assets/categories/programmable-logic-controller/products/3.jpeg",
         "features": [
           "Small PLC for basic sequential control",
           "Economical solution",
@@ -1460,7 +1460,7 @@
         "brandName": "Delta",
         "modelName": "DVP EC3 Series",
         "price": "₹On Request",
-        "imgUrl": "/src/assets/categories/programmable-logic-controller/products/4.jpeg",
+        "imgUrl": "/assets/categories/programmable-logic-controller/products/4.jpeg",
         "features": [
           "Most economical solution for sequential control",
           "Communication monitoring capability",
@@ -1474,7 +1474,7 @@
         "brandName": "Delta",
         "modelName": "DVP EC5 Series",
         "price": "₹On Request",
-        "imgUrl": "/src/assets/categories/programmable-logic-controller/products/5.jpeg",
+        "imgUrl": "/assets/categories/programmable-logic-controller/products/5.jpeg",
         "features": [
           "Fulfills market demand for advanced PLCs",
           "User-friendly programming interface",
@@ -1488,7 +1488,7 @@
         "brandName": "Delta",
         "modelName": "DVP-ES3/ES2 Series Expansion Module",
         "price": "₹On Request",
-        "imgUrl": "/src/assets/categories/programmable-logic-controller/products/6.jpeg",
+        "imgUrl": "/assets/categories/programmable-logic-controller/products/6.jpeg",
         "features": [
           "Expansion module for ES3/ES2 series",
           "Enhanced system capabilities"
@@ -1509,7 +1509,7 @@
         "brandName": "Weidmuller",
         "modelName": "Industry Light",
         "price": "₹12000 / Piece",
-        "imgUrl": "/src/assets/categories/industrial-lights/products/1.webp",
+        "imgUrl": "/assets/categories/industrial-lights/products/1.webp",
         "features": [
           "Workplace and accessories compatibility",
           "Industrial grade lighting solution",
@@ -1532,7 +1532,7 @@
         "brandName": "Weidmuller",
         "modelName": "Distribution Boxes",
         "price": "₹3500 / Piece",
-        "imgUrl": "/src/assets/categories/distribution-box/products/1.webp",
+        "imgUrl": "/assets/categories/distribution-box/products/1.webp",
         "features": [
           "Brand: WEIDMULLER",
           "Usage/Application: AUTOMATION",
@@ -1544,7 +1544,7 @@
         "brandName": "Weidmuller",
         "modelName": "Service Interface",
         "price": "₹3400 / Hour",
-        "imgUrl": "/src/assets/categories/distribution-box/products/2.webp",
+        "imgUrl": "/assets/categories/distribution-box/products/2.webp",
         "features": [
           "Software Testing Services",
           "CONNECTIVITY support",
@@ -1566,7 +1566,7 @@
         "brandName": "Weidmuller",
         "modelName": "Terminal Blocks",
         "price": "₹3000 / Piece",
-        "imgUrl": "/src/assets/categories/terminal-block/products/1.webp",
+        "imgUrl": "/assets/categories/terminal-block/products/1.webp",
         "features": [
           "Brand: WEIDMULLER",
           "CONNECTIVITY solutions",
@@ -1589,7 +1589,7 @@
         "brandName": "Weidmuller",
         "modelName": "Industrial Ethernet Switch",
         "price": "₹4000 / Piece",
-        "imgUrl": "/src/assets/categories/industrial-ethernet-switch/products/1.webp",
+        "imgUrl": "/assets/categories/industrial-ethernet-switch/products/1.webp",
         "features": [
           "WEIDMULLER INDUSTRIAL ETHERNET SWITCHES",
           "AUTOMATION AND SOFTWARE integration",
@@ -1612,7 +1612,7 @@
         "brandName": "Weidmuller",
         "modelName": "Wireless Connectivity Solutions",
         "price": "₹3000 / Piece",
-        "imgUrl": "/src/assets/categories/internet-service/products/1.webp",
+        "imgUrl": "/assets/categories/internet-service/products/1.webp",
         "features": [
           "Service Type: Industrial Wireless Network",
           "Solution Type: Wireless",
@@ -1637,7 +1637,7 @@
         "brandName": "Weidmuller",
         "modelName": "Industrial PCs",
         "price": "₹3500 / Piece",
-        "imgUrl": "/src/assets/categories/industrial-ups/products/1.jpeg",
+        "imgUrl": "/assets/categories/industrial-ups/products/1.jpeg",
         "features": [
           "AUTOMATION AND SOFTWARE ready",
           "WEIDMULLER brand quality",

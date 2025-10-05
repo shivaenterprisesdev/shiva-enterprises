@@ -1,161 +1,161 @@
 [
     {
       "id": 1,
-      "imgUrl": "/src/assets/categories/incremental-encoder/i-e.webp",
+      "imgUrl": "/assets/categories/incremental-encoder/i-e.webp",
       "categoryName": "Incremental Encoders",
       "brandName": "Kubler, Autonics",
       "features": ["High accuracy", "Durable", "Easy integration"]
     },
     {
       "id": 2,
-      "imgUrl": "/src/assets/categories/absoulte-encoder/a-e.webp",
+      "imgUrl": "/assets/categories/absoulte-encoder/a-e.webp",
       "categoryName": "Absolute Encoders",
       "brandName": "Kubler, Autonics, Profinet",
       "features": ["Precise positioning", "Long life", "Compact design"]
     },
     {
       "id": 3,
-      "imgUrl": "/src/assets/categories/bearing-less-encoder/b-l-e.webp",
+      "imgUrl": "/assets/categories/bearing-less-encoder/b-l-e.webp",
       "categoryName": "Bearing-Less Encoders",
       "brandName": "Kubler",
       "features": ["Contactless sensing", "Maintenance-free", "Reliable"]
     },
     {
       "id": 4,
-      "imgUrl": "/src/assets/categories/draw-wire-encoder/d-w-e.webp",
+      "imgUrl": "/assets/categories/draw-wire-encoder/d-w-e.webp",
       "categoryName": "Draw-Wire Encoders",
       "brandName": "Kubler",
       "features": ["Wide range", "High precision", "Easy mounting"]
     },
     {
       "id": 5,
-      "imgUrl": "/src/assets/categories/inclinometer/i.webp",
+      "imgUrl": "/assets/categories/inclinometer/i.webp",
       "categoryName": "Inclinometers",
       "brandName": "Kubler",
       "features": ["Tilt sensing", "Compact design", "Reliable"]
     },
     {
       "id": 7,
-      "imgUrl": "/src/assets/categories/shaft-cpoying-system/s-c-s.webp",
+      "imgUrl": "/assets/categories/shaft-cpoying-system/s-c-s.webp",
       "categoryName": "Shaft Copying System",
       "brandName": "Kubler",
       "features": ["Precision control", "Durable", "Easy integration"]
     },
     {
       "id": 8,
-      "imgUrl": "/src/assets/categories/slipring/s.webp",
+      "imgUrl": "/assets/categories/slipring/s.webp",
       "categoryName": "Slipring",
       "brandName": "Kubler",
       "features": ["Continuous rotation", "Durable", "Compact"]
     },
     {
       "id": 9,
-      "imgUrl": "/src/assets/categories/pulse-counter/p-c.jpeg",
+      "imgUrl": "/assets/categories/pulse-counter/p-c.jpeg",
       "categoryName": "Pulse Counter",
       "brandName": "Kubler, Autonics",
       "features": ["Fast counting", "Accurate", "Reliable"]
     },
     {
       "id": 10,
-      "imgUrl": "/src/assets/categories/timer-hour-meter/t-h-m.jpeg",
+      "imgUrl": "/assets/categories/timer-hour-meter/t-h-m.jpeg",
       "categoryName": "Timer/Hour Meter",
       "brandName": "Kubler",
       "features": ["Accurate time tracking", "Durable", "Compact"]
     },
     {
       "id": 11,
-      "imgUrl": "/src/assets/categories/radar-sensor/r-s.jpeg",
+      "imgUrl": "/assets/categories/radar-sensor/r-s.jpeg",
       "categoryName": "Radar Sensor",
       "brandName": "Kubler",
       "features": ["Long-range", "Accurate detection", "Weather resistant"]
     },
     {
       "id": 12,
-      "imgUrl": "/src/assets/categories/survo-drive-dc/s-d-d.jpeg",
+      "imgUrl": "/assets/categories/survo-drive-dc/s-d-d.jpeg",
       "categoryName": "Survo Drive DC",
       "brandName": "Kubler",
       "features": ["Efficient drive", "Durable", "High performance"]
     },
     {
       "id": 13,
-      "imgUrl": "/src/assets/categories/io-module/i-m.jpeg",
+      "imgUrl": "/assets/categories/io-module/i-m.jpeg",
       "categoryName": "IO Module",
       "brandName": "Kubler",
       "features": ["Multiple I/O", "Reliable", "Compact"]
     },
     {
       "id": 14,
-      "imgUrl": "/src/assets/categories/meanwell-power-supply/m-p-s.webp",
+      "imgUrl": "/assets/categories/meanwell-power-supply/m-p-s.webp",
       "categoryName": "Meanwell Power Supply",
       "brandName": "Meanwell",
       "features": ["Stable output", "Energy efficient", "Durable"]
     },
     {
       "id": 15,
-      "imgUrl": "/src/assets/categories/rotary-encoder/r-e.webp",
+      "imgUrl": "/assets/categories/rotary-encoder/r-e.webp",
       "categoryName": "Rotary Encoder",
       "brandName": "Kubler, Autonics",
       "features": ["High precision", "Durable", "Reliable"]
     },
     {
       "id": 16,
-      "imgUrl": "/src/assets/categories/temperature-controller/t-c.webp",
+      "imgUrl": "/assets/categories/temperature-controller/t-c.webp",
       "categoryName": "Temperature Controller",
       "brandName": "Kubler, Autonics",
       "features": ["Accurate control", "User-friendly", "Reliable"]
     },
     {
       "id": 17,
-      "imgUrl": "/src/assets/categories/connector/c.webp",
+      "imgUrl": "/assets/categories/connector/c.webp",
       "categoryName": "Connectors",
       "brandName": "Shiva Enterprises, Kubler, Autonics",
       "features": ["Secure connection", "Durable", "Compact"]
     },
     {
       "id": 19,
-      "imgUrl": "/src/assets/categories/plc-system/p-s.jpg",
+      "imgUrl": "/assets/categories/plc-system/p-s.jpg",
       "categoryName": "PLC System",
       "brandName": "Kubler",
       "features": ["Programmable", "Reliable", "Efficient"]
     },
     {
       "id": 20,
-      "imgUrl": "/src/assets/categories/flexible-coupling/f-c.webp",
+      "imgUrl": "/assets/categories/flexible-coupling/f-c.webp",
       "categoryName": "Flexible Coupling",
       "brandName": "Shiva Enterprises, Kubler",
       "features": ["Durable", "High torque capacity", "Compact"]
     },
     {
       "id": 21,
-      "imgUrl": "/src/assets/categories/digital-counter-meter/d-c-m.webp",
+      "imgUrl": "/assets/categories/digital-counter-meter/d-c-m.webp",
       "categoryName": "Digital Counter Meter",
       "brandName": "Kubler, Autonics",
       "features": ["Accurate", "Durable", "Easy to use"]
     },
     {
       "id": 22,
-      "imgUrl": "/src/assets/categories/photoelectric-sensor/p-s.webp",
+      "imgUrl": "/assets/categories/photoelectric-sensor/p-s.webp",
       "categoryName": "Photoelectric Sensors",
       "brandName": "Kubler, Autonics",
       "features": ["Fast response", "Durable", "Reliable"]
     },
     {
       "id": 23,
-      "imgUrl": "/src/assets/categories/thristor-power-controller/t-p-c.webp",
+      "imgUrl": "/assets/categories/thristor-power-controller/t-p-c.webp",
       "categoryName": "Thristor Power Controller",
       "brandName": "Kubler, Autonics",
       "features": ["Precise control", "Durable", "Efficient"]
     },
     {
       "id": 25,
-      "imgUrl": "/src/assets/categories/programmable-logic-controller/p-l-c.jpg",
+      "imgUrl": "/assets/categories/programmable-logic-controller/p-l-c.jpg",
       "categoryName": "Programmable Logic Controller",
       "brandName": "",
       "features": ["Programmable", "Reliable", "High performance"]
     },
     {
       "id": 35,
-      "imgUrl": "/src/assets/categories/industrial-ups/i-u.jpeg",
+      "imgUrl": "/assets/categories/industrial-ups/i-u.jpeg",
       "categoryName": "Industrial UPS",
       "brandName": "Weidmuller",
       "features": ["High performance", "Durable", "Compact"]

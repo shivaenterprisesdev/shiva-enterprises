@@ -69,7 +69,7 @@ export default function FloatingContact() {
               <div className="flex items-center gap-3">
                 <div className="relative">
                   <img
-                    src="/src/assets/shiva-enterprises-logo.png"
+                    src="/assets/shiva-enterprises-logo.png"
                     alt="Shiva Enterprises"
                     className="w-10 h-10 rounded-full bg-white p-1"
                   />

@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "logoUrl": "/src/assets/kubler.jpeg",
+    "logoUrl": "/assets/kubler.jpeg",
     "brandName": "Kubler",
     "heading": "Kubler Encoders & Automation Solutions",
     "description": "Shiva Enterprises is an authorized dealer, distributor and supplier of original Kubler encoders in India. We stock and supply the complete range of Kubler incremental encoders, absolute encoders, bearingless encoders, inclinometers, and draw-wire encoders. Kubler Germany manufactures high-precision rotary encoders, linear encoders, position sensors, and measurement systems for industrial automation, packaging, steel, automotive, wind energy, and mobile applications. Our Kubler products offer exceptional durability, accuracy, IP67/IP68/IP69K protection, and are widely used in harsh industrial environments across packaging, bottling, elevators, conveyor systems, and CNC machines.",
@@ -219,7 +219,7 @@
   },
   {
     "id": 2,
-    "logoUrl": "/src/assets/autonics.png",
+    "logoUrl": "/assets/autonics.png",
     "brandName": "Autonics",
     "heading": "Autonics Sensors & Automation Components",
     "description": "Shiva Enterprises is a trusted dealer, distributor and supplier of Autonics automation products in India. We provide genuine Autonics encoders, proximity sensors, photoelectric sensors, pressure sensors, temperature controllers, timers, counters, and power supplies. Autonics Korea is a leading manufacturer of industrial automation components known for reliability, precision, and cost-effectiveness. Our Autonics product range includes incremental encoders, absolute encoders, ultrasonic sensors, fiber optic sensors, area sensors, safety light curtains, digital panel meters, and solid state relays suitable for factory automation, packaging machines, textile industry, food processing, and manufacturing applications.",
@@ -1097,7 +1097,7 @@
   },
   {
     "id": 3,
-    "logoUrl": "/src/assets/shiva-enterprises-logo.png",
+    "logoUrl": "/assets/shiva-enterprises-logo.png",
     "brandName": "Shiva Enterprises",
     "heading": "Shiva Enterprises Manufacturing Solutions",
     "description": "Shiva Enterprises is a leading manufacturer and supplier of high-quality industrial couplings and mechanical components. Our in-house manufacturing facility produces precision-engineered flexible couplings, spring flex couplings, and custom mechanical solutions designed for various industrial applications. With our expertise in manufacturing and quality control, we deliver reliable and durable products that meet the demanding requirements of automation, machinery, and industrial equipment. Our products are manufactured to international standards and are widely used in packaging machines, conveyor systems, pumps, compressors, and various industrial automation applications.",

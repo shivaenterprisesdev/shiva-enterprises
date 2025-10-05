@@ -125,7 +125,7 @@ Allow: /get-quote
 Allow: /products/*
 
 # Assets
-Allow: /src/assets/
+Allow: /assets/
 Allow: /src/data/
 
 # Block development and admin paths

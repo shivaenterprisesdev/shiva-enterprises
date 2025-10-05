@@ -71,7 +71,7 @@ export default function GetQuote() {
                 <div className="absolute inset-0 bg-gradient-to-r from-[#FB8B24]/20 to-[#FF9500]/20 rounded-2xl blur-xl scale-110"></div>
                 <div className="relative w-20 h-20 sm:w-24 sm:h-24 rounded-2xl border-2 border-white/20 bg-white shadow-xl flex items-center justify-center p-4 backdrop-blur-sm">
                   <img
-                    src="/src/assets/shiva-enterprises-logo.png"
+                    src="/assets/shiva-enterprises-logo.png"
                     alt="Shiva Enterprises Logo"
                     className="w-full h-full object-contain"
                   />
