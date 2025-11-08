@@ -110,7 +110,7 @@ export default function Footer() {
               <h4 className="text-xs font-medium text-white mb-2">Share:</h4>
               <div className="flex items-center gap-2">
                 <a 
-                  href="https://www.facebook.com/sharer.php?u=https://www.shivaenterprisesindia.com/" 
+                  href="https://www.facebook.com/sharer.php?u=https://www.shivaenterprises.co/" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="w-7 h-7 rounded-full bg-white/10 hover:bg-[#FB8B24] transition-colors flex items-center justify-center"
@@ -118,7 +118,7 @@ export default function Footer() {
                   <Facebook className="h-3 w-3" />
                 </a>
                 <a 
-                  href="https://www.linkedin.com/cws/share?url=https://www.shivaenterprisesindia.com/" 
+                  href="https://www.linkedin.com/cws/share?url=https://www.shivaenterprises.co/" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="w-7 h-7 rounded-full bg-white/10 hover:bg-[#FB8B24] transition-colors flex items-center justify-center"

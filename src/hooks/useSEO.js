@@ -4,7 +4,7 @@ import { Helmet } from 'react-helmet-async'
 // SEO configuration constants
 export const SEO_CONFIG = {
   siteName: 'Shiva Enterprises',
-  siteUrl: 'https://www.shivaenterprisesindia.com/',
+  siteUrl: 'https://www.shivaenterprises.co/',
   businessName: 'Shiva Enterprises',
   description: 'Leading distributor of industrial automation products, encoders, sensors, couplings, and electrical components. Authorized dealer for Kubler.',
   keywords: 'industrial automation, encoders, sensors, couplings, electrical components, Kubler, Autonics, industrial tools, automation products, rotary encoders, proximity sensors, flexible couplings',

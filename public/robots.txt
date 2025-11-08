@@ -28,7 +28,7 @@ Disallow: /*?*fbclid=*
 Disallow: /*?*gclid=*
 
 # Sitemap location
-Sitemap: https://www.shivaenterprisesindia.com/sitemap.xml
+Sitemap: https://www.shivaenterprises.co/sitemap.xml
 
 # Crawl-delay (optional, helps prevent server overload)
 Crawl-delay: 1
