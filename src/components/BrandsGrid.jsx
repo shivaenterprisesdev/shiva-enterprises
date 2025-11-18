@@ -41,7 +41,7 @@ export default function BrandsGrid() {
             Authorized Industrial Automation Brands
           </h2>
           <p className="mt-2 text-sm sm:text-base text-[#36454F]/75">
-            Official distributor of leading global manufacturers like Kubler Germany for authentic encoders, sensors, and industrial automation components.
+            Official distributor of leading global manufacturers like Kuebler Germany for authentic encoders, sensors, and industrial automation components.
           </p>
         </div>
 

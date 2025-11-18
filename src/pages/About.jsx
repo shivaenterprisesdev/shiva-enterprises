@@ -36,7 +36,7 @@ export default function AboutPage() {
             </h1>
             <p className="text-xl text-gray-300 max-w-4xl mx-auto leading-relaxed mb-8">
               India's trusted authorized distributor of industrial automation components including encoders, sensors, and precision couplings. We partner with leading global brands like{" "}
-              <span className="text-[#FB8B24] font-semibold">Kubler Germany</span>
+              <span className="text-[#FB8B24] font-semibold">Kuebler Germany</span>
             </p>
             <div className="flex flex-wrap justify-center gap-6 text-sm text-gray-400">
               <div className="flex items-center gap-2">
@@ -79,7 +79,7 @@ export default function AboutPage() {
               We've built long-term relationships with manufacturers and customers across manufacturing, automotive, packaging, CNC machining, process industries, and FMCG sectors. Our specialized catalog includes rotary encoders (incremental & absolute), proximity sensors, photoelectric sensors, flexible couplings, shaft couplings, and industrial automation components—all sourced from authorized distributors to your exact specification.
             </p>
             <p className="text-lg text-[#36454F]/80 mb-8 leading-relaxed">
-              As authorized partners of Kubler Germany, our team emphasizes product authenticity, competitive encoder and sensor pricing, and consistent availability—backed by responsive pre-sales technical consultation and comprehensive after-sales support for all automation components.
+              As authorized partners of Kuebler Germany, our team emphasizes product authenticity, competitive encoder and sensor pricing, and consistent availability—backed by responsive pre-sales technical consultation and comprehensive after-sales support for all automation components.
             </p>
             
             {/* Stats */}
@@ -128,7 +128,7 @@ export default function AboutPage() {
                 <div className="text-center text-sm font-medium text-[#36454F]/70 mb-4">Authorized Partners</div>
                 <div className="flex justify-center items-center gap-4">
                   <div className="px-3 py-2 bg-[#FB8B24]/10 rounded-lg border border-[#FB8B24]/20">
-                    <span className="text-sm font-semibold text-[#36454F]">Kubler</span>
+                    <span className="text-sm font-semibold text-[#36454F]">Kuebler</span>
                   </div>
                 </div>
               </div>
@@ -183,7 +183,7 @@ export default function AboutPage() {
                   <h3 className="text-2xl font-bold text-[#36454F]">Our Mission</h3>
                 </div>
                 <p className="text-[#36454F]/80 leading-relaxed">
-                  To deliver reliable industrial automation solutions including encoders, sensors, and couplings that improve manufacturing productivity and operational safety—through authentic products from trusted brands like Kubler and Autonics, backed by responsive technical service.
+                  To deliver reliable industrial automation solutions including encoders, sensors, and couplings that improve manufacturing productivity and operational safety—through authentic products from trusted brands like Kuebler and Autonics, backed by responsive technical service.
                 </p>
               </div>
             </motion.div>
@@ -204,7 +204,7 @@ export default function AboutPage() {
                   <h3 className="text-2xl font-bold text-[#36454F]">Our Vision</h3>
                 </div>
                 <p className="text-[#36454F]/80 leading-relaxed">
-                  To be India's most dependable industrial automation components distributor for manufacturing industries, powered by authorized partnerships with global brand Kubler, extensive encoder and sensor range, and technical service excellence.
+                  To be India's most dependable industrial automation components distributor for manufacturing industries, powered by authorized partnerships with global brand Kuebler, extensive encoder and sensor range, and technical service excellence.
                 </p>
               </div>
             </motion.div>
@@ -237,7 +237,7 @@ export default function AboutPage() {
             {[
               {
                 title: "Authentic Quality",
-                desc: "Genuine encoders, sensors, and couplings from authorized global brand like Kubler with assured industrial performance.",
+                desc: "Genuine encoders, sensors, and couplings from authorized global brand like Kuebler with assured industrial performance.",
                 Icon: ShieldCheck,
                 color: "from-green-500 to-green-600",
                 bgColor: "from-green-50 to-green-100",

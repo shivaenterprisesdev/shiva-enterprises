@@ -35,7 +35,7 @@ export default function Hero() {
             Industrial Automation Products | Encoders | Sensors | Coupling | Sliprings
           </motion.h1>
           <motion.p variants={itemUp} className="mt-4 text-base sm:text-lg text-[#36454F]/80">
-            Leading supplier of industrial automation components in India. Authorized distributor of Kubler encoders, proximity sensors, photoelectric sensors, and manufacturer of precision couplings. 10+ years delivering quality automation solutions to packaging, manufacturing, and industrial applications.
+            Leading supplier of industrial automation components in India. Authorized distributor of Kuebler encoders, proximity sensors, photoelectric sensors, and manufacturer of precision couplings. 10+ years delivering quality automation solutions to packaging, manufacturing, and industrial applications.
           </motion.p>
 
           <motion.div variants={itemUp} className="mt-8 flex items-center gap-3">

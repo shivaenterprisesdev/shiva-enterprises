@@ -23,7 +23,7 @@ export default function About() {
             Shiva Enterprises is India's trusted supplier of industrial automation products, specializing in rotary encoders, incremental encoders, absolute encoders, proximity sensors, photoelectric sensors, precision coupling manufacturing and Sliprings. We deliver certified, high-quality automation components that meet demanding industrial standards for packaging machines, conveyor systems, CNC machines, and manufacturing applications.
           </p>
           <p className="mt-3 text-[#36454F]/80">
-            Our authorized partnerships with Kubler enable us to offer genuine industrial automation solutions with reliable technical support and after-sales service across India.
+            Our authorized partnerships with Kuebler enable us to offer genuine industrial automation solutions with reliable technical support and after-sales service across India.
           </p>
 
           <div className="mt-8 grid grid-cols-2 sm:grid-cols-4 gap-4">

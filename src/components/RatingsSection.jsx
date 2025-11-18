@@ -56,7 +56,7 @@ const reviews = [
     name: "Kanji Bhatu",
     location: "Rajkot, Gujarat",
     date: "13-December-2023",
-    product: "Kubler Encoder",
+    product: "Kuebler Encoder",
     quote: "Trustworthy distributor.",
   },
   {

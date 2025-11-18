@@ -35,8 +35,8 @@ function Home() {
     <>
       <SEOHead 
         title="Industrial Automation Products | Encoders, Sensors & Couplings"
-        description="Leading distributor of industrial automation products in India. Authorized dealer for Kubler, sensors, couplings, and electrical components. 10+ years of trusted service."
-        keywords="industrial automation, encoders, sensors, couplings, electrical components, Kubler, Autonics, industrial tools, automation products, rotary encoders, proximity sensors, flexible couplings, India"
+        description="Leading distributor of industrial automation products in India. Authorized dealer for Kuebler, sensors, couplings, and electrical components. 10+ years of trusted service."
+        keywords="industrial automation, encoders, sensors, couplings, electrical components, Kuebler, Autonics, industrial tools, automation products, rotary encoders, proximity sensors, flexible couplings, India"
         structuredData={structuredData}
       />
       <main id="home" className="min-h-screen">

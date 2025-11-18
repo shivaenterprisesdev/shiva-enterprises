@@ -2,11 +2,11 @@
     {
       "id": 1,
       "categoryName": "Incremental Encoders",
-      "description": "Shiva Enterprises is a trusted dealer, distributor and supplier of Incremental Encoders in India. We stock and supply a wide range of Kubler Incremental Encoders including Rotary Encoders, Hollow Shaft Encoders, Shaft Encoders and high-resolution PPR models. Our encoders are sourced directly from Kubler Germany ensuring original, high-quality products at the best price. With 100+ global brands in stock, we deliver durable, precise and vibration-resistant Incremental Encoders suitable for industrial automation and machinery.",
-      "brands": ["Kubler"],
+      "description": "Shiva Enterprises is a trusted dealer, distributor and supplier of Incremental Encoders in India. We stock and supply a wide range of Kuebler Incremental Encoders including Rotary Encoders, Hollow Shaft Encoders, Shaft Encoders and high-resolution PPR models. Our encoders are sourced directly from Kuebler Germany ensuring original, high-quality products at the best price. With 100+ global brands in stock, we deliver durable, precise and vibration-resistant Incremental Encoders suitable for industrial automation and machinery.",
+      "brands": ["Kuebler"],
       "products": [
         {
-          "brandName": "Kubler",
+          "brandName": "Kuebler",
           "modelName": "8.KIS40.1642.1024",
           "price": "₹5000 / Piece",
           "imgUrl": "/assets/categories/incremental-encoder/products/1.webp",
@@ -18,7 +18,7 @@
           ]
         },
         {
-          "brandName": "Kubler",
+          "brandName": "Kuebler",
           "modelName": "Sendix 5000 / 5020",
           "price": "₹5000 / Piece",
           "imgUrl": "/assets/categories/incremental-encoder/products/2.webp",
@@ -30,7 +30,7 @@
           ]
         },
         {
-          "brandName": "Kubler",
+          "brandName": "Kuebler",
           "modelName": "Sendix 5000 / 5020 (inch dimensions)",
           "price": "₹7000 / Piece",
           "imgUrl": "/assets/categories/incremental-encoder/products/3.webp",
@@ -42,7 +42,7 @@
           ]
         },
         {
-          "brandName": "Kubler",
+          "brandName": "Kuebler",
           "modelName": "Sendix KIS50 / KIH50",
           "price": "₹7000 / Piece",
           "imgUrl": "/assets/categories/incremental-encoder/products/4.webp",
@@ -64,25 +64,25 @@
     {
         "id": 2,
         "categoryName": "Absolute Encoders",
-        "description": "Shiva Enterprises is a trusted Dealer, Distributor, Supplier of Absolute Encoders from Kubler, Autonics, and more. We stock a wide range of Absolute Rotary Encoders, Hollow Shaft Absolute Encoders, CANopen, PROFIBUS, and PROFINET compatible encoders at best prices. Kubler Absolute Encoders are widely used in Packaging, Steel, Automation, Cable, Lift, Printing, Solar and Wind Turbine industries. We guarantee original branded products with high durability and performance.",
-        "brands": ["Kubler", "Autonics"],
+        "description": "Shiva Enterprises is a trusted Dealer, Distributor, Supplier of Absolute Encoders from Kuebler, Autonics, and more. We stock a wide range of Absolute Rotary Encoders, Hollow Shaft Absolute Encoders, CANopen, PROFIBUS, and PROFINET compatible encoders at best prices. Kuebler Absolute Encoders are widely used in Packaging, Steel, Automation, Cable, Lift, Printing, Solar and Wind Turbine industries. We guarantee original branded products with high durability and performance.",
+        "brands": ["Kuebler", "Autonics"],
         "models": [
         "8.5000.8351.1024",
         "8.5020.4A51.1024",
-        "Kubler Absolute PushPull / TTL / PROFINET",
+        "kuebler Absolute PushPull / TTL / PROFINET",
         "Autonics Absolute Encoder"
         ],
         "products": [
         {
-        "brandName": "Kubler",
+        "brandName": "Kuebler",
         "modelName": "8.5000.8351.1024",
         "price": "₹6000 / Piece",
         "imgUrl": "/assets/categories/absoulte-encoder/products/1.webp",
         "features": ["Solid Shaft options ø8mm-12mm", "CANopen / PROFIBUS / PROFINET", "Durable in harsh conditions"]
         },
         {
-        "brandName": "Kubler",
-        "modelName": "Kubler Absolute PushPull / TTL / PROFINET",
+        "brandName": "Kuebler",
+        "modelName": "kuebler Absolute PushPull / TTL / PROFINET",
         "price": "₹5500 / Piece",
         "imgUrl": "/assets/categories/absoulte-encoder/products/2.webp",
         "features": ["High resolution up to 5000", "Long service life", "Widely used in packaging & steel industries"]
@@ -99,8 +99,8 @@
         {
             "id": 3,
             "categoryName": "Bearing-Less Encoders",
-            "description": "Shiva Enterprises is a trusted Dealer, Distributor, and Supplier of Kubler Bearingless Encoders. We stock and deliver original Kubler Bearingless Encoders that ensure high performance, durability, and reliability. Our bearingless encoders are designed for harsh industrial environments with IP67 / IP68 / IP69k protection, making them suitable for packaging, automation, elevators, bottling plants, mobile automation, steel industries, and wind turbines. As an authorized supplier of Kubler Encoders, we offer best prices, global brand assurance, and 100% original high-quality products with fast delivery.",
-            "brands": ["Kubler"],
+            "description": "Shiva Enterprises is a trusted Dealer, Distributor, and Supplier of Kuebler Bearingless Encoders. We stock and deliver original Kuebler Bearingless Encoders that ensure high performance, durability, and reliability. Our bearingless encoders are designed for harsh industrial environments with IP67 / IP68 / IP69k protection, making them suitable for packaging, automation, elevators, bottling plants, mobile automation, steel industries, and wind turbines. As an authorized supplier of Kuebler Encoders, we offer best prices, global brand assurance, and 100% original high-quality products with fast delivery.",
+            "brands": ["Kuebler"],
             "models": [
             "RLI50",
             "RLI500",
@@ -109,28 +109,28 @@
             ],
             "products": [
             {
-            "brandName": "Kubler",
+            "brandName": "Kuebler",
             "modelName": "RLI50",
             "price": "₹ 25000 / Piece",
             "imgUrl": "/assets/categories/bearing-less-encoder/products/1.webp",
             "features": "Bearingless encoder with zero pulse, suitable for shaft diameter up to 35 mm. Contactless and wear-free measuring system with IP68/IP69k protection. High shock and vibration resistance. Easy mounting with slotted holes. Compact installation depth of only 16 mm."
             },
             {
-            "brandName": "Kubler",
+            "brandName": "Kuebler",
             "modelName": "RLI500",
             "price": "₹ 24000 / Piece",
             "imgUrl": "/assets/categories/bearing-less-encoder/products/2.webp",
             "features": "RLI500 bearingless encoder with magnetic ring and sensor head. Designed for shafts up to 350 mm. Offers IP68/IP69k protection and long service life. High resistance to shock, vibration, humidity, and heat. LED function indication for easy commissioning."
             },
             {
-            "brandName": "Kubler",
+            "brandName": "Kuebler",
             "modelName": "RLI20",
             "price": "₹ 26000 / Piece",
             "imgUrl": "/assets/categories/bearing-less-encoder/products/3.webp",
             "features": "RLI20 bearingless encoder for shafts up to 30 mm diameter. Compact 16 mm depth, IP68/IP69k rated, and designed for adverse industrial conditions. Contactless measuring principle, long durability, and function indication with LED."
             },
             {
-            "brandName": "Kubler",
+            "brandName": "Kuebler",
             "modelName": "RLI200",
             "price": "₹ 24000 / Piece",
             "imgUrl": "/assets/categories/bearing-less-encoder/products/4.webp",
@@ -141,8 +141,8 @@
             {
                 "id": 4,
                 "categoryName": "Inclinometers",
-                "description": "Kubler Inclinometers are high-precision angle measurement devices designed for industrial and mobile automation applications. With robust IP67/IP69K protection, durable housing, and advanced sensor technology, these inclinometers provide accurate tilt detection even in harsh environments. Available in 1D and 2D measurement ranges up to 360°, with multiple interface options like CANopen, Modbus, Analog, and SAE J1939, Kubler Inclinometers ensure long-term stability, durability, and easy integration for packaging, construction, steel, wind, solar, and automation industries.",
-                "brands": ["Kubler"],
+                "description": "Kuebler Inclinometers are high-precision angle measurement devices designed for industrial and mobile automation applications. With robust IP67/IP69K protection, durable housing, and advanced sensor technology, these inclinometers provide accurate tilt detection even in harsh environments. Available in 1D and 2D measurement ranges up to 360°, with multiple interface options like CANopen, Modbus, Analog, and SAE J1939, Kuebler Inclinometers ensure long-term stability, durability, and easy integration for packaging, construction, steel, wind, solar, and automation industries.",
+                "brands": ["Kuebler"],
                 "models": [
                   "IN81 1D Inclinometer",
                   "IN81 2D Inclinometer",
@@ -155,12 +155,12 @@
                   "IS40 Inclinometer",
                   "IS40 2D Inclinometer",
                   "IS60 2D Inclinometer",
-                  "Kubler Digital Inclinometer",
-                  "Kubler Angle Indicator Inclinometer"
+                  "kuebler Digital Inclinometer",
+                  "kuebler Angle Indicator Inclinometer"
                 ],
                 "products": [
                   {
-                    "brandName": "Kubler",
+                  "brandName": "Kuebler",
                     "modelName": "IN81 2D Inclinometer",
                     "price": "₹20000 / Piece",
                     "imgUrl": "/assets/categories/inclinometer/products/1.webp",
@@ -177,7 +177,7 @@
                     ]
                   },
                   {
-                    "brandName": "Kubler",
+                    "brandName": "Kuebler",
                     "modelName": "IN81 1D Inclinometer",
                     "price": "₹19000 / Piece",
                     "imgUrl": "/assets/categories/inclinometer/products/2.webp",
@@ -192,7 +192,7 @@
                     ]
                   },
                   {
-                    "brandName": "Kubler",
+                    "brandName": "Kuebler",
                     "modelName": "IN88 Digital Inclinometer",
                     "price": "₹20000 / Piece",
                     "imgUrl": "/assets/categories/inclinometer/products/3.webp",
@@ -205,7 +205,7 @@
                     ]
                   },
                   {
-                    "brandName": "Kubler",
+                    "brandName": "Kuebler",
                     "modelName": "IN88 CANopen 1D Inclinometer",
                     "price": "₹17997 / Piece",
                     "imgUrl": "/assets/categories/inclinometer/products/4.webp",
@@ -219,7 +219,7 @@
                     ]
                   },
                   {
-                    "brandName": "Kubler",
+                    "brandName": "Kuebler",
                     "modelName": "IN88 Modbus 1D Inclinometer",
                     "price": "₹22000 / Piece",
                     "imgUrl": "/assets/categories/inclinometer/products/5.webp",
@@ -233,7 +233,7 @@
                     ]
                   },
                   {
-                    "brandName": "Kubler",
+                    "brandName": "Kuebler",
                     "modelName": "IS60 2D Inclinometer",
                     "price": "₹22000 / Piece",
                     "imgUrl": "/assets/categories/inclinometer/products/6.webp",
@@ -248,7 +248,7 @@
                     ]
                   },
                   {
-                    "brandName": "Kubler",
+                    "brandName": "Kuebler",
                     "modelName": "IS40 2D Inclinometer",
                     "price": "₹19000 / Piece",
                     "imgUrl": "/assets/categories/inclinometer/products/7.webp",
@@ -263,7 +263,7 @@
                     ]
                   },
                   {
-                    "brandName": "Kubler",
+                    "brandName": "Kuebler",
                     "modelName": "Angle Indicator Inclinometer",
                     "price": "₹20000 / Piece",
                     "imgUrl": "/assets/categories/inclinometer/products/8.webp",
@@ -324,8 +324,8 @@
               {
                 "id": 6,
                 "categoryName": "Draw-Wire Encoders",
-                "description": "Kubler Draw-Wire Encoders are robust and compact solutions for reliable length and position measurement. With a wide measuring range, high accuracy, and flexible mounting options, they are ideal for industrial machines, automation, and outdoor applications. Their durable aluminum housing, IP-rated protection, and compatibility with incremental, absolute, and analog encoders make them versatile for varied applications.",
-                "brands": ["Kubler"],
+                "description": "Kuebler Draw-Wire Encoders are robust and compact solutions for reliable length and position measurement. With a wide measuring range, high accuracy, and flexible mounting options, they are ideal for industrial machines, automation, and outdoor applications. Their durable aluminum housing, IP-rated protection, and compatibility with incremental, absolute, and analog encoders make them versatile for varied applications.",
+                "brands": ["Kuebler"],
                 "models": [
                   "A40 Draw Wire Encoder",
                   "A41 Draw Wire Encoder",
@@ -342,7 +342,7 @@
                 ],
                 "products": [
                   {
-                    "brandName": "Kubler",
+                    "brandName": "Kuebler",
                     "modelName": "A40 Draw Wire Encoder",
                     "price": "₹39000 / Piece",
                     "imgUrl": "/assets/categories/draw-wire-encoder/products/1.webp",
@@ -357,7 +357,7 @@
                     ]
                   },
                   {
-                    "brandName": "Kubler",
+                    "brandName": "Kuebler",
                     "modelName": "A41 Draw Wire Encoder",
                     "price": "₹39500 / Piece",
                     "imgUrl": "/assets/categories/draw-wire-encoder/products/2.webp",
@@ -372,7 +372,7 @@
                     ]
                   },
                   {
-                    "brandName": "Kubler",
+                    "brandName": "Kuebler",
                     "modelName": "C105 Draw Wire Encoder",
                     "price": "₹40000 / Piece",
                     "imgUrl": "/assets/categories/draw-wire-encoder/products/3.webp",
@@ -387,7 +387,7 @@
                     ]
                   },
                   {
-                    "brandName": "Kubler",
+                    "brandName": "Kuebler",
                     "modelName": "B75 Draw Wire Encoder",
                     "price": "₹42000 / Piece",
                     "imgUrl": "/assets/categories/draw-wire-encoder/products/4.webp",
@@ -403,7 +403,7 @@
                     ]
                   },
                   {
-                    "brandName": "Kubler",
+                    "brandName": "Kuebler",
                     "modelName": "C100 Draw Wire Encoder",
                     "price": "₹40000 / Piece",
                     "imgUrl": "/assets/categories/draw-wire-encoder/products/5.webp",
@@ -417,7 +417,7 @@
                     ]
                   },
                   {
-                    "brandName": "Kubler",
+                    "brandName": "Kuebler",
                     "modelName": "A50 Draw Wire Encoder",
                     "price": "₹40000 / Piece",
                     "imgUrl": "/assets/categories/draw-wire-encoder/products/6.webp",
@@ -432,7 +432,7 @@
                     ]
                   },
                   {
-                    "brandName": "Kubler",
+                    "brandName": "Kuebler",
                     "modelName": "D125 Draw Wire Encoder",
                     "price": "₹39000 / Piece",
                     "imgUrl": "/assets/categories/draw-wire-encoder/products/7.webp",
@@ -451,7 +451,7 @@
                     ]
                   },
                   {
-                    "brandName": "Kubler",
+                    "brandName": "Kuebler",
                     "modelName": "D120 Draw Wire Encoder",
                     "price": "₹40000 / Piece",
                     "imgUrl": "/assets/categories/draw-wire-encoder/products/8.webp",
@@ -473,11 +473,11 @@
                 "id": 7,
                 "categoryName": "Shaft Copying System",
                 "description": "Kübler shaft copying systems deliver absolute and slip-free positioning for elevator cars with high precision and safety compliance. Their compact, robust, and contactless design ensures reliable performance, reduced installation time, and long service life across diverse applications.",
-                "brands": ["Kubler"],
+                "brands": ["kuebler"],
                 "models": ["T3s", "PSU02", "Ants LEB02", "Ants LES02"],
                 "products": [
                   {
-                    "brandName": "Kubler",
+                    "brandName": "Kuebler",
                     "modelName": "Shaft Copying System",
                     "price": "₹19000 / Piece",
                     "imgUrl": "/assets/categories/shaft-cpoying-system/products/1.webp",
@@ -490,7 +490,7 @@
                     ]
                   },
                   {
-                    "brandName": "Kubler",
+                    "brandName": "kuebler",
                     "modelName": "PSU02 Shaft Copying System",
                     "price": "₹22000 / Piece",
                     "imgUrl": "/assets/categories/shaft-cpoying-system/products/2.webp",
@@ -505,7 +505,7 @@
                     ]
                   },
                   {
-                    "brandName": "Kubler",
+                    "brandName": "kuebler",
                     "modelName": "Ants LEB02 Shaft Copying System",
                     "price": "₹19000 / Piece",
                     "imgUrl": "/assets/categories/shaft-cpoying-system/products/3.webp",
@@ -520,7 +520,7 @@
                     ]
                   },
                   {
-                    "brandName": "Kubler",
+                    "brandName": "kuebler",
                     "modelName": "Ants LES02 Shaft Copying System",
                     "price": "₹20000 / Piece",
                     "imgUrl": "/assets/categories/shaft-cpoying-system/products/4.webp",
@@ -540,12 +540,12 @@
               {
                 "id": 8,
                 "categoryName": "Slipring",
-                "description": "Shiva Enterprises is a trusted dealer, distributor, and supplier of Kubler Slip Rings in India. We provide high-quality slip rings designed for reliable transmission of power, signals, and data between stationary and rotating platforms. Our Kubler Slip Rings are sourced directly from Germany, ensuring durability, precision, and long service life. With modular designs, stable performance across wide temperature ranges, and flexible configurations, these slip rings are ideal for industrial automation, packaging, and heavy machinery applications.",
-                "brands": ["Kubler"],
+                "description": "Shiva Enterprises is a trusted dealer, distributor, and supplier of kuebler Slip Rings in India. We provide high-quality slip rings designed for reliable transmission of power, signals, and data between stationary and rotating platforms. Our kuebler Slip Rings are sourced directly from Germany, ensuring durability, precision, and long service life. With modular designs, stable performance across wide temperature ranges, and flexible configurations, these slip rings are ideal for industrial automation, packaging, and heavy machinery applications.",
+                "brands": ["kuebler"],
                 "models": ["Slip Rings 30mm", "Slip Ring 4 Channel", "Modular Slip Ring"],
                 "products": [
                   {
-                    "brandName": "Kubler",
+                    "brandName": "kuebler",
                     "modelName": "Slip Rings 30mm",
                     "price": "₹35000 / Piece",
                     "imgUrl": "/assets/categories/slipring/products/1.webp",
@@ -559,7 +559,7 @@
                     ]
                   },
                   {
-                    "brandName": "Kubler",
+                    "brandName": "kuebler",
                     "modelName": "Slip Ring 4 Channel",
                     "price": "₹32000 / Piece",
                     "imgUrl": "/assets/categories/slipring/products/2.webp",
@@ -574,7 +574,7 @@
                     ]
                   },
                   {
-                    "brandName": "Kubler",
+                    "brandName": "kuebler",
                     "modelName": "Modular Slip Ring",
                     "price": "₹45000 / Piece",
                     "imgUrl": "/assets/categories/slipring/products/3.webp",
@@ -593,11 +593,11 @@
               {
                 "id": "9",
                 "categoryName": "Pulse Counter",
-                "description": "Shiva Enterprises is a trusted dealer, distributor and supplier of Kubler Pulse Counters in India. We provide a wide range of electronic, electromechanical, and pneumatic pulse counters including LCD, LED, and multifunctional models. These counters ensure accurate pulse detection, optimum readability, and long service life for industrial automation and monitoring systems.",
-                "brands": ["Kubler"],
+                "description": "Shiva Enterprises is a trusted dealer, distributor and supplier of kuebler Pulse Counters in India. We provide a wide range of electronic, electromechanical, and pneumatic pulse counters including LCD, LED, and multifunctional models. These counters ensure accurate pulse detection, optimum readability, and long service life for industrial automation and monitoring systems.",
+                "brands": ["kuebler"],
                 "products": [
                   {
-                    "brandName": "Kubler",
+                    "brandName": "kuebler",
                     "modelName": "LCD Counter 48x24 DIN",
                     "price": "₹ On Request",
                     "imgUrl": "/assets/categories/pulse-counter/products/1.jpg",
@@ -609,7 +609,7 @@
                     ]
                   },
                   {
-                    "brandName": "Kubler",
+                    "brandName": "kuebler",
                     "modelName": "LED Counter 48x24 DIN",
                     "price": "₹ On Request",
                     "imgUrl": "/assets/categories/pulse-counter/products/2.jpg",
@@ -620,7 +620,7 @@
                     ]
                   },
                   {
-                    "brandName": "Kubler",
+                    "brandName": "kuebler",
                     "modelName": "LED Counter 96x48 DIN",
                     "price": "₹ On Request",
                     "imgUrl": "/assets/categories/pulse-counter/products/3.jpg",
@@ -631,7 +631,7 @@
                     ]
                   },
                   {
-                    "brandName": "Kubler",
+                    "brandName": "kuebler",
                     "modelName": "Multicolor LCD Counter 96x48",
                     "price": "₹ On Request",
                     "imgUrl": "/assets/categories/pulse-counter/products/4.jpg",
@@ -642,7 +642,7 @@
                     ]
                   },
                   {
-                    "brandName": "Kubler",
+                    "brandName": "kuebler",
                     "modelName": "LCD Counter Module",
                     "price": "₹ On Request",
                     "imgUrl": "/assets/categories/pulse-counter/products/5.jpg",
@@ -653,7 +653,7 @@
                     ]
                   },
                   {
-                    "brandName": "Kubler",
+                    "brandName": "kuebler",
                     "modelName": "Micro Counter",
                     "price": "₹ On Request",
                     "imgUrl": "/assets/categories/pulse-counter/products/6.jpg",
@@ -664,7 +664,7 @@
                     ]
                   },
                   {
-                    "brandName": "Kubler",
+                    "brandName": "kuebler",
                     "modelName": "Miniature Counter",
                     "price": "₹ On Request",
                     "imgUrl": "/assets/categories/pulse-counter/products/7.jpg",
@@ -675,7 +675,7 @@
                     ]
                   },
                   {
-                    "brandName": "Kubler",
+                    "brandName": "kuebler",
                     "modelName": "Micro Meter DIN Rail",
                     "price": "₹ On Request",
                     "imgUrl": "/assets/categories/pulse-counter/products/8.jpg",
@@ -686,7 +686,7 @@
                     ]
                   },
                   {
-                    "brandName": "Kubler",
+                    "brandName": "kuebler",
                     "modelName": "Standard Counter",
                     "price": "₹ On Request",
                     "imgUrl": "/assets/categories/pulse-counter/products/9.jpg",
@@ -697,7 +697,7 @@
                     ]
                   },
                   {
-                    "brandName": "Kubler",
+                    "brandName": "kuebler",
                     "modelName": "Double Function Counter",
                     "price": "₹ On Request",
                     "imgUrl": "/assets/categories/pulse-counter/products/10.jpg",
@@ -708,7 +708,7 @@
                     ]
                   },
                   {
-                    "brandName": "Kubler",
+                    "brandName": "kuebler",
                     "modelName": "Pneumatic Counter",
                     "price": "₹ On Request",
                     "imgUrl": "/assets/categories/pulse-counter/products/11.jpg",
@@ -736,11 +736,11 @@
               {
                 "id": "10",
                 "categoryName": "Timer/Hour Meter",
-                "description": "Shiva Enterprises is a trusted dealer, distributor and supplier of Kubler Timers and Hour Meters in India. Our portfolio includes electronic and electromechanical models for recording run times, service intervals, operating times, cycle times, and short-term measurements. Kubler hour meters and timers feature high precision, optimum readability, long service life, and are available in LCD, LED, DIN rail, and front panel mounting options. Programmable and tamper-proof versions make them ideal for industrial automation and monitoring applications.",
-                "brands": ["Kubler"],
+                "description": "Shiva Enterprises is a trusted dealer, distributor and supplier of kuebler Timers and Hour Meters in India. Our portfolio includes electronic and electromechanical models for recording run times, service intervals, operating times, cycle times, and short-term measurements. kuebler hour meters and timers feature high precision, optimum readability, long service life, and are available in LCD, LED, DIN rail, and front panel mounting options. Programmable and tamper-proof versions make them ideal for industrial automation and monitoring applications.",
+                "brands": ["kuebler"],
                 "products": [
                   {
-                    "brandName": "Kubler",
+                    "brandName": "kuebler",
                     "modelName": "LCD Hour Meter / Timer 48x24 DIN",
                     "price": "₹ On Request",
                     "imgUrl": "/assets/categories/timer-hour-meter/products/1.png",
@@ -751,7 +751,7 @@
                     ]
                   },
                   {
-                    "brandName": "Kubler",
+                    "brandName": "kuebler",
                     "modelName": "LED Hour Meter / Timer 48x24 DIN",
                     "price": "₹ On Request",
                     "imgUrl": "/assets/categories/timer-hour-meter/products/2.png",
@@ -762,7 +762,7 @@
                     ]
                   },
                   {
-                    "brandName": "Kubler",
+                    "brandName": "kuebler",
                     "modelName": "LED Hour Meter / Timer 96x48 DIN",
                     "price": "₹ On Request",
                     "imgUrl": "/assets/categories/timer-hour-meter/products/3.png",
@@ -773,7 +773,7 @@
                     ]
                   },
                   {
-                    "brandName": "Kubler",
+                    "brandName": "kuebler",
                     "modelName": "LCD Hour Meter / Timer 96x48 DIN",
                     "price": "₹ On Request",
                     "imgUrl": "/assets/categories/timer-hour-meter/products/4.png",
@@ -784,7 +784,7 @@
                     ]
                   },
                   {
-                    "brandName": "Kubler",
+                    "brandName": "kuebler",
                     "modelName": "LCD Hour Meter / Timer Module",
                     "price": "₹ On Request",
                     "imgUrl": "/assets/categories/timer-hour-meter/products/5.png",
@@ -795,7 +795,7 @@
                     ]
                   },
                   {
-                    "brandName": "Kubler",
+                    "brandName": "kuebler",
                     "modelName": "Micro Hour Meter / Timer",
                     "price": "₹ On Request",
                     "imgUrl": "/assets/categories/timer-hour-meter/products/6.png",
@@ -806,7 +806,7 @@
                     ]
                   },
                   {
-                    "brandName": "Kubler",
+                    "brandName": "kuebler",
                     "modelName": "Front Panel Mounted Counter",
                     "price": "₹ On Request",
                     "imgUrl": "/assets/categories/timer-hour-meter/products/7.png",
@@ -817,7 +817,7 @@
                     ]
                   },
                   {
-                    "brandName": "Kubler",
+                    "brandName": "kuebler",
                     "modelName": "DIN Rail Mounted Hour Meter / Timer",
                     "price": "₹ On Request",
                     "imgUrl": "/assets/categories/timer-hour-meter/products/8.png",
@@ -828,7 +828,7 @@
                     ]
                   },
                   {
-                    "brandName": "Kubler",
+                    "brandName": "kuebler",
                     "modelName": "Standard Hour Meter (Round)",
                     "price": "₹ On Request",
                     "imgUrl": "/assets/categories/timer-hour-meter/products/9.png",
@@ -839,7 +839,7 @@
                     ]
                   },
                   {
-                    "brandName": "Kubler",
+                    "brandName": "kuebler",
                     "modelName": "Front Panel Standard Hour Meter / Timer",
                     "price": "₹ On Request",
                     "imgUrl": "/assets/categories/timer-hour-meter/products/10.png",
@@ -850,7 +850,7 @@
                     ]
                   },
                   {
-                    "brandName": "Kubler",
+                    "brandName": "kuebler",
                     "modelName": "Dual Function Hour Meter / Timer",
                     "price": "₹ On Request",
                     "imgUrl": "/assets/categories/timer-hour-meter/products/11.png",
@@ -879,10 +879,10 @@
                 "id": "11",
                 "categoryName": "Radar Sensor",
                 "description": "Shiva Enterprises is a leading dealer, distributor and supplier of Kübler Radar Sensors in India. These advanced FMCW radar sensors ensure reliable distance, position and level measurement as well as precise object detection, even in the most demanding industrial environments. With a high measurement rate of up to 500 Hz, they enable real-time monitoring and control for applications in steel plants, logistics, mobile automation, and agricultural technology. Offering measuring ranges up to 40 m, minimal blind zones as low as 0.1 m, and narrow aperture angles for focused accuracy, Kübler radar sensors are trusted for condition monitoring of machines, structures and bridges. As an authorized supplier, Shiva Enterprises guarantees original, high-quality German technology radar sensors at the best price in India.",
-                "brands": ["Kubler"],
+                "brands": ["kuebler"],
                 "products": [
                   {
-                    "brandName": "Kubler",
+                    "brandName": "kuebler",
                     "modelName": "Radar Sensor Versatile",
                     "price": "₹ On Request",
                     "imgUrl": "/assets/categories/radar-sensor/products/1.jpg",
@@ -895,7 +895,7 @@
                     ]
                   },
                   {
-                    "brandName": "Kubler",
+                    "brandName": "kuebler",
                     "modelName": "Radar Sensor Focused",
                     "price": "₹ On Request",
                     "imgUrl": "/assets/categories/radar-sensor/products/2.jpg",
@@ -916,11 +916,11 @@
               {
                 "id": "12",
                 "categoryName": "Survo Drive DC",
-                "description": "Shiva Enterprises is a trusted dealer, distributor and supplier of Kubler Survo Drive DC motor feedback systems in India. Our portfolio includes the Sendix S36 Motor Feedback System, designed for high-performance servo motors in packaging, steel, cable and wire industries. With compact dimensions, stainless steel build, and German-engineered precision, these motor feedback encoders provide robust operation, high resolution, and long service life. As an authorized supplier, Shiva Enterprises ensures customers receive original, high-quality Kubler Survo Drive DC solutions at the best price for industrial automation applications across India.",
-                "brands": ["Kubler"],
+                "description": "Shiva Enterprises is a trusted dealer, distributor and supplier of kuebler Survo Drive DC motor feedback systems in India. Our portfolio includes the Sendix S36 Motor Feedback System, designed for high-performance servo motors in packaging, steel, cable and wire industries. With compact dimensions, stainless steel build, and German-engineered precision, these motor feedback encoders provide robust operation, high resolution, and long service life. As an authorized supplier, Shiva Enterprises ensures customers receive original, high-quality kuebler Survo Drive DC solutions at the best price for industrial automation applications across India.",
+                "brands": ["kuebler"],
                 "products": [
                   {
-                    "brandName": "Kubler",
+                    "brandName": "kuebler",
                     "modelName": "Sendix S36 Motor Feedback System",
                     "price": "₹6000 / Piece",
                     "imgUrl": "/assets/categories/survo-drive-dc/products/1.png",
@@ -945,10 +945,10 @@
                 "id": "13",
                 "categoryName": "IO Module",
                 "description": "Shiva Enterprises is a leading dealer, distributor and supplier of Kübler IO-Link Master Modules in India. These intelligent IO modules form the central hub of modern automation systems by establishing reliable, fieldbus-independent communication between sensors, actuators, and higher-level controllers such as PLCs. Designed for seamless integration, they enable bidirectional communication for parameter reading and writing, along with diagnostic data collection for predictive maintenance and condition monitoring. Trusted across industries for their high reliability, original German technology and robust design, Kübler IO Modules from Shiva Enterprises deliver superior performance and cost efficiency for industrial automation in India.",
-                "brands": ["Kubler"],
+                "brands": ["kuebler"],
                 "products": [
                   {
-                    "brandName": "Kubler",
+                    "brandName": "kuebler",
                     "modelName": "IO-Link Master Module 4-Port",
                     "price": "₹ On Request",
                     "imgUrl": "/assets/categories/io-module/products/1.png",
@@ -960,7 +960,7 @@
                     ]
                   },
                   {
-                    "brandName": "Kubler",
+                    "brandName": "kuebler",
                     "modelName": "IO-Link Master Module 8-Port",
                     "price": "₹ On Request",
                     "imgUrl": "/assets/categories/io-module/products/2.png",
@@ -972,7 +972,7 @@
                     ]
                   },
                   {
-                    "brandName": "Kubler",
+                    "brandName": "kuebler",
                     "modelName": "IO-Link Master Module Profinet",
                     "price": "₹ On Request",
                     "imgUrl": "/assets/categories/io-module/products/3.png",
@@ -984,7 +984,7 @@
                     ]
                   },
                   {
-                    "brandName": "Kubler",
+                    "brandName": "kuebler",
                     "modelName": "IO-Link Master Module Ethernet/IP",
                     "price": "₹ On Request",
                     "imgUrl": "/assets/categories/io-module/products/4.png",
@@ -1060,13 +1060,13 @@
               {
                 "id": 14,
                 "categoryName": "Rotary Encoder",
-                "description": "Shiva Enterprises is a trusted dealer, distributor, and supplier of Kubler Rotary Encoders in India. We provide high-performance rotary encoders designed for precise motion control and reliable operation in industrial automation, packaging, and heavy machinery. Kubler rotary encoders are built to withstand harsh environments, ensuring durability, accuracy, and long service life. Available in incremental and absolute models, our encoders are engineered for maximum flexibility and seamless integration across applications.",
-                "brands": ["Kubler"],
-                "models": ["Kubler Rotary Encoder", "Multi Turn Absolute Rotary Encoder"],
+                "description": "Shiva Enterprises is a trusted dealer, distributor, and supplier of kuebler Rotary Encoders in India. We provide high-performance rotary encoders designed for precise motion control and reliable operation in industrial automation, packaging, and heavy machinery. kuebler rotary encoders are built to withstand harsh environments, ensuring durability, accuracy, and long service life. Available in incremental and absolute models, our encoders are engineered for maximum flexibility and seamless integration across applications.",
+                "brands": ["kuebler"],
+                "models": ["kuebler Rotary Encoder", "Multi Turn Absolute Rotary Encoder"],
                 "products": [
                   {
-                    "brandName": "Kubler",
-                    "modelName": "Kubler Rotary Encoder",
+                    "brandName": "kuebler",
+                    "modelName": "kuebler Rotary Encoder",
                     "price": "₹6000 / Piece",
                     "imgUrl": "/assets/categories/rotary-encoder/products/1.webp",
                     "features": [
@@ -1085,12 +1085,12 @@
                     ]
                   },
                   {
-                    "brandName": "Kubler",
+                    "brandName": "kuebler",
                     "modelName": "Multi Turn Absolute Rotary Encoder",
                     "price": "₹22500 / Piece",
                     "imgUrl": "/assets/categories/rotary-encoder/products/2.webp",
                     "features": [
-                      "Brand: Kubler",
+                      "Brand: kuebler",
                       "Model Number: M.5861.3534.3412",
                       "Size/Dimension: 58 mm",
                       "Operating Temperature: -40°C to +85°C",
@@ -1284,8 +1284,8 @@
   {
     "id": 19,
     "categoryName": "Digital Counter Meter",
-    "description": "Shiva Enterprises offers reliable digital counter meters for industrial monitoring and control. Our range includes Autonics RPM meters and Kubler Codix multifunction counters with bright displays, high-speed inputs, and flexible power options for universal applications in automation.",
-    "brands": ["Autonics", "Kubler"],
+    "description": "Shiva Enterprises offers reliable digital counter meters for industrial monitoring and control. Our range includes Autonics RPM meters and kuebler Codix multifunction counters with bright displays, high-speed inputs, and flexible power options for universal applications in automation.",
+    "brands": ["Autonics", "kuebler"],
     "models": [
       "Counter Meter RPM",
       "Automatic Counters Codix 923/924"
@@ -1308,7 +1308,7 @@
         ]
       },
       {
-        "brandName": "Kubler",
+        "brandName": "kuebler",
         "modelName": "Automatic Counters Codix 923/924",
         "price": "₹5000 / Piece",
         "imgUrl": "/assets/categories/digital-counter-meter/products/2.webp",

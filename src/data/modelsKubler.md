@@ -1,169 +1,169 @@
-Rotary Encoder, Hollow Shaft Encoder, Kuebler Encoder Coupling, Kubler Encoder, Kuebler Rotary Encoder, Kubler Shaft Encoder, Kubler Hollow shaft Encoder, Rotary Encoder, Incremental encoder, various PPR, Diameter, Shaft Diameter, Housing Diameter, 8.5020 Kuebler Encoder, 8.KIS50 Encoder, 8.KIH50 Encoder, Kuebler Counter.
-8.5000.GB52.0600 Kubler Encoder
+Rotary Encoder, Hollow Shaft Encoder, Kuebler Encoder Coupling, Kuebler Encoder, Kuebler Rotary Encoder, Kuebler Shaft Encoder, Kuebler Hollow shaft Encoder, Rotary Encoder, Incremental encoder, various PPR, Diameter, Shaft Diameter, Housing Diameter, 8.5020 Kuebler Encoder, 8.KIS50 Encoder, 8.KIH50 Encoder, Kuebler Counter.
+8.5000.GB52.0600 Kuebler Encoder
 
-8.5000.GB52.1024 Kubler Encoder
+8.5000.GB52.1024 kuebler Encoder
 
-8.5000.8641.0100 Kubler Encoder
+8.5000.8641.0100 kuebler Encoder
 
-8.5000.0000.1024.S066 Kubler Encoder
+8.5000.0000.1024.S066 kuebler Encoder
 
-8.500.8322.0360 Kubler Encoder
+8.500.8322.0360 kuebler Encoder
 
-8.5000.8352.0500 Kubler Encoder
+8.5000.8352.0500 kuebler Encoder
 
-8.5000.8151.1000 Kubler Encoder
+8.5000.8151.1000 kuebler Encoder
 
-8.5000.8352.2500 Kubler Encoder
+8.5000.8352.2500 kuebler Encoder
 
-8.5000.4451.5000 Kubler Encoder
+8.5000.4451.5000 kuebler Encoder
 
-8.5000.8922.5000 Kubler Encoder
+8.5000.8922.5000 kuebler Encoder
 
-8.5000.8357.1024 Kubler Encoder
+8.5000.8357.1024 kuebler Encoder
 
-8.5000.C514.1024.P0300 Kubler Encoder
+8.5000.C514.1024.P0300 kuebler Encoder
 
-8.5000.C512.1024.P0300 Kubler Encoder
+8.5000.C512.1024.P0300 kuebler Encoder
 
-8.5000.7351.1000 Kubler Encoder
+8.5000.7351.1000 kuebler Encoder
 
-8.5000.8342.0360 Kubler Encoder
+8.5000.8342.0360 kuebler Encoder
 
-8.5000.831A.0500.0030 Kubler Encoder
+8.5000.831A.0500.0030 kuebler Encoder
 
-8.5000.8651.1024 Kubler Encoder
+8.5000.8651.1024 kuebler Encoder
 
-8.5000.D311.2048 Kubler Encoder
+8.5000.D311.2048 kuebler Encoder
 
-8.5000.D311.2048 Kubler Encoder
+8.5000.D311.2048 kuebler Encoder
 
-8.5000.8357.1000 Kubler Encoder
+8.5000.8357.1000 kuebler Encoder
 
-8.5000.C514.1024 Kubler Encoder
+8.5000.C514.1024 kuebler Encoder
 
-8.5000.8341.0360 Kubler Encoder
+8.5000.8341.0360 kuebler Encoder
 
-8.5000.D854.1024 Kubler Encoder
+8.5000.D854.1024 kuebler Encoder
 
-8.5000.0052.1000.DG1392 Kubler Encoder
+8.5000.0052.1000.DG1392 kuebler Encoder
 
-8.5000.8354.1000 Kubler Encoder
+8.5000.8354.1000 kuebler Encoder
 
-8.5000.8351.0400 Kubler Encoder
+8.5000.8351.0400 kuebler Encoder
 
-8.5000.8354.2500 Kubler Encoder
+8.5000.8354.2500 kuebler Encoder
 
-8.5000.B142.1024.P0300 Kubler Encoder
+8.5000.B142.1024.P0300 kuebler Encoder
 
-8.5000.B148.1024.P0300 Kubler Encoder
+8.5000.B148.1024.P0300 kuebler Encoder
 
-8.5000.B141.0100 Kubler Encoder
+8.5000.B141.0100 kuebler Encoder
 
-8.5000.B140.1024.S022 Kubler Encoder
+8.5000.B140.1024.S022 kuebler Encoder
 
-8.5000.B15D.1024 Kubler Encoder
+8.5000.B15D.1024 kuebler Encoder
 
-8.5000.B157.2500 Kubler Encoder
+8.5000.B157.2500 kuebler Encoder
 
-8.5000.B151.2048 Kubler Encoder
+8.5000.B151.2048 kuebler Encoder
 
-8.5000.B131.3600 Kubler Encoder
+8.5000.B131.3600 kuebler Encoder
 
-8.5000.B158.0360 Kubler Encoder
+8.5000.B158.0360 kuebler Encoder
 
-8.5000.B142.1000 Kubler Encoder
+8.5000.B142.1000 kuebler Encoder
 
-8.5000.B142.0200 Kubler Encoder
+8.5000.B142.0200 kuebler Encoder
 
-8.5000.B141.0360 Kubler Encoder
+8.5000.B141.0360 kuebler Encoder
 
-8.5000.B128.0100 Kubler Encoder
+8.5000.B128.0100 kuebler Encoder
 
-8.5000.835A.0360.0050 Kubler Encoder
+8.5000.835A.0360.0050 kuebler Encoder
 
-8.5000.832B.5000.0150 Kubler Encoder
+8.5000.832B.5000.0150 kuebler Encoder
 
-8.5000.A14B.5000.005 Kubler Encoder
+8.5000.A14B.5000.005 kuebler Encoder
 
-8.5000.B14B.1024.0065 Kubler Encoder
+8.5000.B14B.1024.0065 kuebler Encoder
 
-8.5000.B14B.0360.0050 Kubler Encoder
+8.5000.B14B.0360.0050 kuebler Encoder
 
-8.5000.782A.3600.0050 Kubler Encoder
+8.5000.782A.3600.0050 kuebler Encoder
 
-8.5000.835B.1024.0050 Kubler Encoder
+8.5000.835B.1024.0050 kuebler Encoder
 
-8.5000.B10B.1024.0065.F0023 Kubler Encoder
+8.5000.B10B.1024.0065.F0023 kuebler Encoder
 
-8.5000.4A5A.0500.0030 Kubler Encoder
+8.5000.4A5A.0500.0030 kuebler Encoder
 
-8.5000.834A.0010.0050 Kubler Encoder
+8.5000.834A.0010.0050 kuebler Encoder
 
-8.5000.834A.3600.0050-C Kubler Encoder
+8.5000.834A.3600.0050-C kuebler Encoder
 
-8.5000.B14A.0360.0050 Kubler Encoder
+8.5000.B14A.0360.0050 kuebler Encoder
 
-8.5000.095W.2000.P0004.0011 Kubler Encoder
+8.5000.095W.2000.P0004.0011 kuebler Encoder
 
-8.5020.835A.1000.0050.P0300 Kubler Encoder
+8.5020.835A.1000.0050.P0300 kuebler Encoder
 
-8.5020.785A.3600.0050 Kubler Encoder
+8.5020.785A.3600.0050 kuebler Encoder
 
-8.5020.X842.1024.TPEO Kubler Encoder
+8.5020.X842.1024.TPEO kuebler Encoder
 
-8.5020.835A.0050.0020.P0300 Kubler Encoder
+8.5020.835A.0050.0020.P0300 kuebler Encoder
 
-8.5020.8351.1000 Kubler Encoder
+8.5020.8351.1000 kuebler Encoder
 
-8.5020.8852.1024 Kubler Encoder
+8.5020.8852.1024 kuebler Encoder
 
-8.5020.C000.2500.F025 Kubler Encoder
+8.5020.C000.2500.F025 kuebler Encoder
 
-8.5020.8551.0200 Kubler Encoder
+8.5020.8551.0200 kuebler Encoder
 
-8.5020.4A5A.1000.0050.P0300 Kubler Encoder
+8.5020.4A5A.1000.0050.P0300 kuebler Encoder
 
-8.5020.4A51.1000 Kubler Encoder
+8.5020.4A51.1000 kuebler Encoder
 
-8.5020.8351.1024 Kubler Encoder
+8.5020.8351.1024 kuebler Encoder
 
-8.5020.C020.2500.F025 Kubler Encoder
+8.5020.C020.2500.F025 kuebler Encoder
 
-8.5020.D952.0500 Kubler Encoder
+8.5020.D952.0500 kuebler Encoder
 
-8.5020.435A.3600.0050C Kubler Encoder
+8.5020.435A.3600.0050C kuebler Encoder
 
-8.5020.835A.1024.0030 Kubler Encoder
+8.5020.835A.1024.0030 kuebler Encoder
 
-8.5020.835A.0360.0100 Kubler Encoder
+8.5020.835A.0360.0100 kuebler Encoder
 
-8.5020.435A.0360.0030-G Kubler Encoder
+8.5020.435A.0360.0030-G kuebler Encoder
 
-8.5020.435A.0360.0030-C Kubler Encoder
+8.5020.435A.0360.0030-C kuebler Encoder
 
-8.5020.432A.0360.0100 Kubler Encoder
+8.5020.432A.0360.0100 kuebler Encoder
 
-8.5020.432A.0360.0050 Kubler Encoder
+8.5020.432A.0360.0050 kuebler Encoder
 
-8.5020.832A.2500.0050 Kubler Encoder
+8.5020.832A.2500.0050 kuebler Encoder
 
-8.5020.835A.0500.0030 Kubler Encoder
+8.5020.835A.0500.0030 kuebler Encoder
 
-8.5020.834A.0360.0050 Kubler Encoder
+8.5020.834A.0360.0050 kuebler Encoder
 
-8.5020.8A5A.1000.0050 Kubler Encoder
+8.5020.8A5A.1000.0050 kuebler Encoder
 
-8.5020.8A5A.2048.005.2048.005 Kubler Encoder
+8.5020.8A5A.2048.005.2048.005 kuebler Encoder
 
-8.5020.D82A.1024.0050 Kubler Encoder
+8.5020.D82A.1024.0050 kuebler Encoder
 
-8.5020.385A.0360.0050 Kubler Encoder
+8.5020.385A.0360.0050 kuebler Encoder
 
-8.5020.835A.0100.0050 Kubler Encoder
+8.5020.835A.0100.0050 kuebler Encoder
 
-8.5020.834A.2048.0050 Kubler Encoder
+8.5020.834A.2048.0050 kuebler Encoder
 
-8.5020.D352.0050 Kubler Encoder
+8.5020.D352.0050 kuebler Encoder
 
 8.5020.D15A.0360.0050
 
@@ -191,7 +191,7 @@ Encoder 8.5000.B142.1000
 Encoder 8.5000.B152.0360
 Encoder-8.5000-B152-1000
 Encoder 8.5000.GB52.0600
-Encoder  8.5000.GB52.1024
+Encoder 8.5000.GB52.1024
 Encoder 8.5020.8351.0200
 Encoder-8.5020.8351.1000
 Encoder-8.5805.1241.10000

@@ -50,7 +50,7 @@ const headerVariant = {
 }
 
 export default function BrandsPage() {
-  const [selectedBrand, setSelectedBrand] = useState(brandsData[0]) // Default to Kubler
+  const [selectedBrand, setSelectedBrand] = useState(brandsData[0]) // Default to Kuebler
   const [isDropdownOpen, setIsDropdownOpen] = useState(false)
 
   const handleBrandSelect = (brand) => {

@@ -99,7 +99,7 @@ export default function QuickContact() {
               <textarea
                 name="message"
                 rows={4}
-                placeholder="Tell us your industrial automation needs (e.g., Kubler encoders, Autonics sensors, coupling specifications, quantities, delivery timeline)"
+                placeholder="Tell us your industrial automation needs (e.g., Kuebler encoders, Autonics sensors, coupling specifications, quantities, delivery timeline)"
                 value={form.message}
                 onChange={handleChange}
                 className="w-full rounded-md border border-gray-300 bg-white px-3 py-2 text-sm text-[#36454F] placeholder:text-gray-400 focus:outline-none focus:ring-2 focus:ring-[#FB8B24]"

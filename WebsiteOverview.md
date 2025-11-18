@@ -2,7 +2,7 @@ Suggestions and improvements (discussion)
 
 - Homepage enhancements
 
-- Trust bar of brand logos near the hero (Kubler and other partners) to build credibility.
+- Trust bar of brand logos near the hero (Kuebler and other partners) to build credibility.
 - “Industries we serve” mini-grid (Automotive, Packaging, Steel, Pharma, OEMs) with concise copy and icons.
 - Sticky “Get Quote” CTA on mobile bottom bar for higher conversion, plus WhatsApp deep-link.
 - Add breadcrumb on category/product pages: Home → Categories → Incremental Encoders.
@@ -127,11 +127,11 @@ products.json is grouped by category:
 "id": 1,
 "categoryName": "Incremental Encoders",
 "description": "...",
-"brands": ["Kubler"],
+"brands": ["kuebler"],
 "models": ["8.KIS40.1642.1024", "Sendix 5000 / 5020", "..."],
 "products": [
 {
-"brandName": "Kubler",
+"brandName": "kuebler",
 "modelName": "8.KIS40.1642.1024",
 "price": "₹5000 / Piece",
 "imgUrl": "[https://source.unsplash.com/400x300/?encoder,machine](https://source.unsplash.com/400x300/?encoder,machine)",

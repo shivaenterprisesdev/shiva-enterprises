@@ -29,7 +29,7 @@ export default function ProductSlider() {
             Popular Industrial Automation Products | Encoders | Sensors | Couplings | Sliprings
           </h2>
           <p className="mt-1 text-sm text-[#36454F]/75">
-            Explore our most sought-after industrial automation components including rotary encoders, proximity sensors, and flexible couplings from authorized brands like Kubler.
+            Explore our most sought-after industrial automation components including rotary encoders, proximity sensors, and flexible couplings from authorized brands like Kuebler.
           </p>
         </div>
 

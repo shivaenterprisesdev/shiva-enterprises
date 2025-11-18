@@ -97,7 +97,7 @@ const seo = useSEO({
 
 ### 5. Link Building
 - **Industry Partnerships**: Partner with automation companies
-- **Supplier Relationships**: Get links from Kubler, Autonics websites
+- **Supplier Relationships**: Get links from Kuebler, Autonics websites
 - **Industry Directories**: List in relevant B2B directories
 - **Trade Publications**: Contribute articles to industry magazines
 

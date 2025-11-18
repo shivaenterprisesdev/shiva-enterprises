@@ -6,12 +6,12 @@ const features = [
   {
     title: "Certified Industrial Automation Products",
     icon: ShieldCheck,
-    desc: "We supply certified Kubler encoders, Autonics sensors, and precision couplings that meet stringent industrial automation standards for packaging and manufacturing applications.",
+    desc: "We supply certified Kuebler encoders, Autonics sensors, and precision couplings that meet stringent industrial automation standards for packaging and manufacturing applications.",
   },
   {
     title: "Authorized Distributor Network",
     icon: BadgeCheck,
-    desc: "Official distributor of Kubler Germany with consistent lead times and dependable service across India's industrial automation sector.",
+    desc: "Official distributor of Kuebler Germany with consistent lead times and dependable service across India's industrial automation sector.",
   },
   {
     title: "Comprehensive Automation Solutions",
