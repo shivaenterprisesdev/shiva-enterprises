@@ -2,9 +2,8 @@
 import { useMemo, useState } from "react"
 import { motion } from "framer-motion"
 import { MapPin, Phone, Mail, MessageCircle, Send, Clock } from "lucide-react"
-
-const OWNER_NUMBER = "918046034595"
-const OWNER_EMAIL = "shivaenterprises52013@gmail.com"
+import { trackInquiryConversion } from "../utils/trackInquiryConversion.js"
+import { OWNER_NUMBER, OWNER_EMAIL } from "../data/contact.js"
 
 export default function ContactPage() {
   const [form, setForm] = useState({ name: "", email: "", phone: "", message: "" })
@@ -49,6 +48,7 @@ export default function ContactPage() {
 
   function handleSubmit(e) {
     e.preventDefault()
+    trackInquiryConversion()
     window.open(waHref, "_blank", "noopener,noreferrer")
   }
 
@@ -164,6 +164,7 @@ export default function ContactPage() {
               <div className="flex flex-col sm:flex-row gap-3">
                 <a
                   href={waHref}
+                  onClick={trackInquiryConversion}
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-flex items-center justify-center gap-2 rounded-md px-5 py-2.5 text-sm font-semibold text-white shadow-sm bg-[linear-gradient(135deg,#FB8B24,40%,#FF9500)] hover:brightness-110 transition"
@@ -173,6 +174,7 @@ export default function ContactPage() {
                 </a>
                 <a
                   href={gmailHref}
+                  onClick={trackInquiryConversion}
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-flex items-center justify-center gap-2 rounded-md px-5 py-2.5 text-sm font-semibold text-white shadow-sm bg-[linear-gradient(135deg,#FF9500,40%,#FFB84D)] hover:brightness-110 transition"
