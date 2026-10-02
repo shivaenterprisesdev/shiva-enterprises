@@ -2,9 +2,8 @@
 import { useMemo, useState } from "react"
 import { motion } from "framer-motion"
 import { Phone, Mail, MessageCircle, User, Clock, CheckCircle } from "lucide-react"
-
-const OWNER_NUMBER = "919560906643"
-const OWNER_EMAIL = "shivaenterprises52013@gmail.com"
+import { trackInquiryConversion } from "../utils/trackInquiryConversion.js"
+import { OWNER_NUMBER, OWNER_EMAIL } from "../data/contact.js"
 
 export default function GetQuote() {
   const [form, setForm] = useState({ name: "", phone: "", email: "", message: "" })
@@ -219,6 +218,7 @@ export default function GetQuote() {
                 <div className="flex flex-col sm:flex-row gap-4 pt-6">
                   <motion.a
                     href={waHref}
+                    onClick={trackInquiryConversion}
                     target="_blank"
                     rel="noopener noreferrer"
                     whileHover={{ scale: 1.02 }}
@@ -231,6 +231,7 @@ export default function GetQuote() {
                   
                   <motion.a
                     href={gmailHref}
+                    onClick={trackInquiryConversion}
                     target="_blank"
                     rel="noopener noreferrer"
                     whileHover={{ scale: 1.02 }}

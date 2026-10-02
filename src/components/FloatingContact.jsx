@@ -2,8 +2,8 @@
 import { useState } from "react"
 import { motion, AnimatePresence } from "framer-motion"
 import { MessageCircle, X, Phone } from "lucide-react"
-
-const OWNER_NUMBER = "919560906643"
+import { trackInquiryConversion } from "../utils/trackInquiryConversion.js"
+import { OWNER_NUMBER } from "../data/contact.js"
 
 export default function FloatingContact() {
   const [isOpen, setIsOpen] = useState(false)
@@ -13,6 +13,7 @@ export default function FloatingContact() {
       "Hello! I'm interested in your industrial automation products and would like to get more information.\n\nSource: Shiva Enterprises Website"
     )
     const whatsappUrl = `https://wa.me/${OWNER_NUMBER}?text=${message}`
+    trackInquiryConversion()
     window.open(whatsappUrl, "_blank", "noopener,noreferrer")
     setIsOpen(false)
   }
