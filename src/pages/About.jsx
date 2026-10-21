@@ -114,7 +114,7 @@ export default function AboutPage() {
               <div className="text-center mb-8">
                 <div className="w-24 h-24 mx-auto bg-white rounded-xl flex items-center justify-center mb-4 shadow-lg border border-gray-100">
                   <img 
-                    src={new URL('../assets/shiva-enterprises-logo.png', import.meta.url).href} 
+                    src="/assets/shiva-enterprises-logo.png"
                     alt="Shiva Enterprises Logo" 
                     className="w-20 h-20 object-contain"
                   />

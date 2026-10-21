@@ -24,7 +24,7 @@ export default function Footer() {
               {!logoError ? (
                 <div className="p-2 bg-white rounded-lg shadow-sm">
                   <img
-                    src={new URL("../assets/shiva-enterprises-logo.png", import.meta.url).href || "/placeholder.svg"}
+                    src="/assets/shiva-enterprises-logo.png"
                     alt="Shiva Enterprises logo"
                     className="h-12 w-12 object-contain"
                     onError={() => setLogoError(true)}

@@ -2,37 +2,20 @@
 
 import { motion } from "framer-motion"
 
-// discover assets at build time; supports common image formats
-const assetModules = import.meta.glob("../assets/*.{png,jpg,jpeg,svg,webp}", {
-  eager: true,
-  as: "url",
-})
-
-function toTitle(name) {
-  try {
-    const base = name.replace(/\.[^/.]+$/, "")
-    return base
-      .replace(/[-_]+/g, " ")
-      .replace(/\s+/g, " ")
-      .trim()
-      .replace(/\b\w/g, (c) => c.toUpperCase())
-  } catch {
-    return name
-  }
-}
+const items = [
+  { name: "Autonics", url: "/assets/autonics.png" },
+  { name: "Baumer", url: "/assets/baumer.png" },
+  { name: "Contrinex", url: "/assets/contrinex.png" },
+  { name: "Datalogic", url: "/assets/datalogic.png" },
+  { name: "Delta", url: "/assets/delta.png" },
+  { name: "Kuebler", url: "/assets/kubler.jpeg" },
+  { name: "Mean Well", url: "/assets/meanwell.png" },
+  { name: "Omron", url: "/assets/omron.png" },
+  { name: "Pepperl+Fuchs", url: "/assets/pepperl.png" },
+  { name: "Weidmuller", url: "/assets/weidmuller.png" },
+]
 
 export default function BrandsGrid() {
-  const items = Object.entries(assetModules)
-    .map(([path, url]) => {
-      const file = path.split("/").pop() || ""
-      return { name: toTitle(file), url }
-    })
-    // If you want to exclude your main site logo, uncomment the next line:
-    .filter((i) => !/shiva|enterprise|logo/i.test(i.name))
-    .sort((a, b) => a.name.localeCompare(b.name))
-
-  if (items.length === 0) return null
-
   return (
     <section className="bg-white">
       <div className="mx-auto max-w-7xl px-4 py-10 sm:py-14">

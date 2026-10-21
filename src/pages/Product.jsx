@@ -9,7 +9,13 @@ import categories from "../data/categories.json"
 
 export default function Product() {
   const { categoryName: raw } = useParams()
-  const categoryName = decodeURIComponent(raw || "")
+  const categoryName = useMemo(() => {
+    const requested = decodeURIComponent(raw || "")
+    const key = requested.toLowerCase().replace(/[\s-]+/g, "-")
+    return products.find((category) =>
+      category.categoryName?.toLowerCase().replace(/[\s-]+/g, "-") === key
+    )?.categoryName || requested
+  }, [raw])
   const [showBackToTop, setShowBackToTop] = useState(false)
   const [viewMode, setViewMode] = useState('grid') // 'grid' or 'list'
   const [searchTerm, setSearchTerm] = useState('')

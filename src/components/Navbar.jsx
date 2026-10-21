@@ -29,7 +29,7 @@ export default function Navbar() {
           {!logoError ? (
             <div className="p-1 bg-white rounded-lg shadow-sm border border-gray-100">
               <img
-                src={new URL("../assets/shiva-enterprises-logo.png", import.meta.url).href || "/placeholder.svg"}
+                src="/assets/shiva-enterprises-logo.png"
                 alt="Shiva Enterprises logo"
                 className="h-12 w-12 object-contain"
                 onError={() => setLogoError(true)}

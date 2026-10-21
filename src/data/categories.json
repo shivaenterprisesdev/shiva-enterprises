@@ -142,7 +142,7 @@
     {
       "id": 23,
       "imgUrl": "/assets/categories/thristor-power-controller/t-p-c.webp",
-      "categoryName": "Thristor Power Controller",
+      "categoryName": "Thyristor Power Controller",
       "brandName": "Kuebler, Autonics",
       "features": ["Precise control", "Durable", "Efficient"]
     },
@@ -161,4 +161,3 @@
       "features": ["High performance", "Durable", "Compact"]
     }
   ]
-  

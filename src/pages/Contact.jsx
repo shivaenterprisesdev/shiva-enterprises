@@ -205,7 +205,7 @@ export default function ContactPage() {
               <div className="absolute inset-0 bg-gradient-to-br from-[#FB8B24]/10 to-transparent"></div>
               <div className="relative w-28 h-28 rounded-xl bg-white flex items-center justify-center shadow-lg border border-gray-100">
                 <img 
-                  src={new URL('../assets/shiva-enterprises-logo.png', import.meta.url).href} 
+                  src="/assets/shiva-enterprises-logo.png"
                   alt="Shiva Enterprises Logo" 
                   className="w-24 h-24 object-contain"
                 />
